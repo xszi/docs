@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:'sans-serif';
+    background-color: #EDEDED;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: #EDEDED;
+}
+
+header div{
+    padding: 0px 200px;
+}
+header p{
+    font-size: 28px;
+    font-weight: 200;
+    line-height: 100px;
+    text-align: left;
+}
+
+/*nav{*/
+    /*width: 100%;*/
+    /*height: 60px;*/
+    /*border-top: solid 5px #8BA7E3;*/
+    /*background-color: #CDDEF6;*/
+/*}*/
+
+#nav_bar{
+    padding: 0px 150px;
+}
+
+#nav_bar a{
+    margin-left: 40px;
+    line-height: 60px;
+}
+
+#main_content{
+    width: 850px;
+    margin:  auto;
+}
+
+#main_left{
+    width: 600px;
+    float: left;
+}
+
+.listBox{
+    width: 500px;
+    height: 150px;
+    margin-bottom: 10px;
+    border: solid 1px #aaa;
+}
+li{
+    display: inline;
+    list-style: none;
+}
+
+#main_right{
+    width: 250px;
+    height: 100%;
+    float: right;
+}
+
+#login_register_success{
+    float:right;
+    background-color: #F7EDEB;
+}
+
+#main_right img{
+    width: 250px;
+    margin-top: 10px;
+}
+
+.LRSBox{
+    margin: auto;
+}
+
+.title{
+    color: coral;
+    text-decoration: underline;
+}
+
+.colHeader{
+    text-align: center;
+}
+#loginBox{
+    width: 250px;
+    height: 190px;
+}
+
+#registerBox{
+    width: 250px;
+    height: 200px;
+}
+
+#successBox{
+    width: 250px;
+    height: 160px;
+}
+
+.inputBox{
+    width: 250px;
+    height: 20px;
+    margin: 20px 12px;
+}
+
+#loginlink,#registerlink{
+    margin: 20px 20px;
+}
+
+#loginlink li,#registerlink li{
+    margin-left:25px;
+    list-style: none;
+    display: inline;
+}
+
+.successIn{
+    margin: 20px 15px;
+}

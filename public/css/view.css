@@ -1,0 +1,9 @@
+.bgDanger{
+    width: 400px;
+    height: 30px;
+    background-color: red;
+    color: #FFF;
+}
+.messageBox{
+    width: 500px;
+}
