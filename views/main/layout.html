@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet"href="/public/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="../../public/css/main.css">
+    <link rel="stylesheet" href="../../public/css/view.css">
+    <script src="/public/js/jquery-1.10.2.js"></script>
+    <script src="../../public/js/bootstrap.min.js"></script>
+    <script src="/public/js/index.js"></script>
+
+</head>
+<body>
+<header>
+    <div>
+    <p>乘风书行</p>
+    </div>
+</header>
+<nav>
+    <ul class="nav nav-tabs">
+        {% id  %}
+        <li role="presentation" href="/" class="active"><a href="javascript:;">首页</a></li>
+        {%for cate in categories%}
+        <li role="presentation"><a href="/?category={{cate.id}}">{{cate.name}}</a></li>
+        {%endfor%}
+    </ul>
+</nav>
+<div id="main_content">
+    <div id="main_left">
+        {% block content %}
+
+        {% endblock %}
+    </div>
+    <div id="main_right">
+        <div id="login_register_success">
+            <!--登录成功-->
+            {% if userInfo._id %}
+            <div class="LRSBox" id="successBox">
+                <div class="title"><span>用户信息</span></div>
+                <p><span class="colHeader">{{userInfo.username}}！</span></p>
+
+                {% if userInfo.isAdmin %}
+                <p>
+                    <span class="colManager">您好，管理员！</span>
+                    <a href="/admin">进入管理</a>
+                </p>
+                {% else %}
+                <p><span class="colHeader">您好，欢迎来到我的博客！</span></p>
+                {% endif %}
+                <p><span class="colHeader"><a href="javascript:;" id="logout">退出</a></span></p>
+            </div>
+
+            <!--登录-->
+            {% else %}
+            <div class="LRSBox" id="loginBox">
+                <div class="title"><span>登录</span></div>
+                <div class="inputBox">
+                    <span class="colHeader">用户名：</span><input type="text" name="username"/>
+                </div>
+                <div class="inputBox">
+                    <span class="colHeader">密码：</span><input type="password" name="password"/>
+                </div>
+                <div class="inputBox">
+                    <span class="colHeader"><span><button>登录</button></span></span>
+                    <a href="javascript:;"class="hLink">立即注册</a>
+                    <p class="warning textCenter"></p>
+                </div>
+            </div>
+
+            <!--注册-->
+            <div class="LRSBox" id="registerBox" style="display: none">
+                <div class="title"><span>注册</span></div>
+                <div class="inputBox">
+                    <span class="colHeader">用户名：</span><input type="text" name="username"/>
+                </div>
+                <div class="inputBox">
+                    <span class="colHeader">密码：</span><input type="password" name="password"/>
+                </div>
+                <div class="inputBox">
+                    <span class="colHeader">密码：</span><input type="password" name="repassword"/>
+                </div>
+                <div class="inputBox">
+                    <span class="colHeader"><span><button>注册</button></span></span>
+                    <a href="javascript:;"class="hLink">立即登录</a>
+                    <p class="warning textCenter"></p>
+                </div>
+            </div>
+            {% endif %}
+        </div>
+        <div id="my_weibo">
+            <img src="../../public/images/onroad.jpg"/></div>
+    </div>
+</div>
+
+<footer></footer>
+</body>
+</html>
