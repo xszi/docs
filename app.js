@@ -6,12 +6,12 @@
  **/
 
 //加载express模块
-var express=require('express');
+var express = require('express');
 // 加载模块处理模板
 var swig = require('swig');
 // 加载数据库模块
 var mongoose = require('mongoose');
-//加载body-parser，用来处理post提交过来的数据
+//加载body-parser，用来处理(解析)post提交过来的数据
 var bodyParser = require('body-parser');
 
 //加载ueditor模块
@@ -50,21 +50,20 @@ swig.setDefaults({cache:false});
 
 //body-parser设置
 app.use(bodyParser.urlencoded({extended:true}));
-
 app.use(bodyParser.json());
+
 //设置cookie
 app.use(function (req,res,next) {
-   req.cookies=new Cookies(req,res);
+   req.cookies = new Cookies(req,res);
 
    //解析登录用户的cookie信息
-   req.userInfo={};
+   req.userInfo = {};
    if(req.cookies.get('userInfo')){
        try{
-           req.userInfo=JSON.parse(req.cookies.get('userInfo'));
-
+           req.userInfo = JSON.parse(req.cookies.get('userInfo'));
            //获取当前登录用户的类型，是否是管理员
            User.findById(req.userInfo._id).then(function (userInfo) {
-               req.userInfo.isAdmin=Boolean(userInfo.isAdmin);
+               req.userInfo.isAdmin = Boolean(userInfo.isAdmin);
                next();
            })
        }catch (e){
@@ -103,6 +102,7 @@ app.use('/api',require('./routers/api'));
 app.use('/',require('./routers/main'));
 
 //mongod --dbpath=C:\Users\jiuhua\Desktop\blog\db --port=27018
+//mongod --dbpath=C:\Users\Administrator\Desktop\blog\db --port=27018
 
 
 
@@ -135,7 +135,7 @@ app.use('/',require('./routers/main'));
 // })
 
 
-mongoose.connect('mongodb://localhost:27018/blog',function (err) {
+mongoose.connect('mongodb://localhost:27017/blog',function (err) {
     if(err){
         console.log("数据库连接失败！");
     }else{

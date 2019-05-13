@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "```\r node app.js\r ```",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,14 @@
     "mongoose": "^5.0.17",
     "swig": "^1.4.2",
     "ueditor": "^1.2.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xszi/blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xszi/blog/issues"
+  },
+  "homepage": "https://github.com/xszi/blog#readme"
 }
