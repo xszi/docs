@@ -42,7 +42,7 @@ MALL_NEW_WEB(项目名称)
 
 * ```.editorconfig```
 
-“```EditorConfig```帮助开发人员在不同的编辑器和IDE之间定义和维护一致的编码样式。```EditorConfig```项目由用于定义编码样式的文件格式和一组文本编辑器插件组成，这些插件使编辑器能够读取文件格式并遵循定义的样式。```EditorConfig```文件易于阅读，并且与版本控制系统配合使用。”
+```EditorConfig```帮助开发人员在不同的编辑器和IDE之间定义和维护一致的编码样式。```EditorConfig```项目由用于定义编码样式的文件格式和一组文本编辑器插件组成，这些插件使编辑器能够读取文件格式并遵循定义的样式。```EditorConfig```文件易于阅读，并且与版本控制系统配合使用。”
 
 拓展链接：[.editorconfig](https://blog.csdn.net/weixin_37597675/article/details/90710979)
 
