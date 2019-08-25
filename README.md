@@ -2,10 +2,12 @@
 
 ## 学习笔记
 
-### JavaScript设计模式和开发实战
+* [深入理解ES6](https://github.com/xszi/ES6)
+* [你不知道的JS](https://github.com/xszi/you-dont-kown-js)
+* [JavaScript设计模式和开发实战]()
 
 #### 第一部分：基础知识
-- [第一章：面向对象的JavaScript](https://github.com/xszi/blog/blob/master/js_design_mode/basic/chapter1.md)
+ [第一章：面向对象的JavaScript](https://github.com/xszi/blog/blob/master/js_design_mode/basic/chapter1.md)
 - [第二章：this, call 和 apply](https://github.com/xszi/blog/blob/master/js_design_mode/basic/chapter2.md)
 - [第三章：闭包与高阶函数](https://github.com/xszi/blog/blob/master/js_design_mode/basic/chapter3.md)
 #### 第二部分：设计模式
@@ -13,6 +15,9 @@
 - [第五章：策略模式](https://github.com/xszi/blog/blob/master/js_design_mode/mode/chapter5.md)
 
 ## 学习总结
+
+* [webpack学习笔记(解析+demo)](https://github.com/xszi/webpack-demo)
+* [一个用ES6写的彩票项目(解析+demo)](https://github.com/xszi/ES6-lottery)
 
 
 ## 工作总结
