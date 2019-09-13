@@ -2,7 +2,7 @@
 
 ## 学习笔记/技术总结
 
-* [深入浅出Node.js](https://github.com/xszi/ES6)
+* [深入浅出Node.js](https://github.com/xszi/node-note)
 * [深入理解ES6](https://github.com/xszi/ES6)
 * [你不知道的JS](https://github.com/xszi/you-dont-kown-js)
 * [JavaScript设计模式和开发实战](https://github.com/xszi/js-design-mode)
