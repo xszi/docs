@@ -11,7 +11,7 @@
   "dependencies": {
     "cookies": "^0.7.1",
     "express": "^4.16.3",
-    "mongoose": "^5.0.17",
+    "mongoose": "^5.7.5",
     "swig": "^1.4.2",
     "ueditor": "^1.2.3"
   },
