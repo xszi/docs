@@ -9,7 +9,7 @@
 * [JavaScript高级程序设计](https://github.com/xszi/js-advanced)
 
 ## 技术总结
-* [前端进阶（一）-调用堆栈](https://juejin.im/post/5bfb4af1e51d4574b133d1e3)
+* [前端进阶（一）--- 调用堆栈](https://juejin.im/post/5bfb4af1e51d4574b133d1e3)
 * [V8引擎简析](https://juejin.im/post/5e0d40326fb9a0483e475543)
 
 ## 学习实践
