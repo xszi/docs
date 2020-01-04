@@ -1,12 +1,16 @@
 我的博客，记录学习、工作、成长。
 
-## 学习笔记/技术总结
+## 学习笔记
 
 * [深入浅出Node.js](https://github.com/xszi/node-note)
 * [深入理解ES6](https://github.com/xszi/ES6)
 * [你不知道的JS](https://github.com/xszi/you-dont-kown-js)
 * [JavaScript设计模式和开发实战](https://github.com/xszi/js-design-mode)
 * [JavaScript高级程序设计](https://github.com/xszi/js-advanced)
+
+## 技术总结
+
+* [V8引擎简析](https://juejin.im/post/5e0d40326fb9a0483e475543)
 
 ## 学习实践
 
