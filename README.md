@@ -3,7 +3,6 @@
 ## JS 理论
 
 * [前端进阶（一）--- 调用堆栈](https://juejin.im/post/5bfb4af1e51d4574b133d1e3)
-* [一个用ES6写的彩票项目(解析+demo)](https://github.com/xszi/ES6-lottery)
 
 ## JS 算法
 
@@ -28,6 +27,10 @@
 ## 工程化
 
 * [webpack学习笔记(解析+demo)](https://github.com/xszi/webpack-demo)
+
+## 小小实战
+
+* [一个用ES6写的彩票项目(解析+demo)](https://github.com/xszi/ES6-lottery)
 
 ## 资源推荐
 
