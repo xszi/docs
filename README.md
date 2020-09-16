@@ -1,8 +1,9 @@
-我的博客，记录学习、工作、成长。
+记录学习、记录成长。
 
 ## JS 理论
 
 * [前端进阶（一）--- 调用堆栈](https://juejin.im/post/5bfb4af1e51d4574b133d1e3)
+* [一个用ES6写的彩票项目(解析+demo)](https://github.com/xszi/ES6-lottery)
 
 ## JS 算法
 
@@ -10,19 +11,27 @@
 
 ## Vue
 
+* 待更新
+
 ## React
 
+* 待更新
+
 ## mini-program
+
+* 待更新
 
 ## 浏览器及网络
 
 * [V8引擎简析](https://juejin.im/post/5e0d40326fb9a0483e475543)
 
-
-## 学习实践
+## 工程化
 
 * [webpack学习笔记(解析+demo)](https://github.com/xszi/webpack-demo)
-* [一个用ES6写的彩票项目(解析+demo)](https://github.com/xszi/ES6-lottery)
+
+## 资源推荐
+
+* 待更新
 
 ## 读书笔记
 
