@@ -20,6 +20,10 @@
 
 * 待更新
 
+## Node.js
+
+[部署上线一个node服务器](https://juejin.im/post/6844904002732343304)
+
 ## 浏览器及网络
 
 * [V8引擎简析](https://juejin.im/post/5e0d40326fb9a0483e475543)
