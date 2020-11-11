@@ -32,6 +32,10 @@
 
 * [webpack学习笔记(解析+demo)](https://github.com/xszi/webpack-demo)
 
+## 性能优化
+
+* [图片Base64编码的误区](https://github.com/xszi/blog/issues/2)
+
 ## 小小实战
 
 * [一个用ES6写的彩票项目(解析+demo)](https://github.com/xszi/ES6-lottery)
