@@ -6,7 +6,7 @@
 
 ## JS 算法
 
-* [算法理论 + LeetCode](https://github.com/xszi/fe-interview/tree/master/algorithm)
+* [算法理解 + 刷题题解](https://github.com/xszi/fe-interview/tree/master/algorithm)
 
 ## Vue
 
