@@ -4,9 +4,9 @@
 
 * [前端进阶（一）--- 调用堆栈](https://juejin.im/post/5bfb4af1e51d4574b133d1e3)
 
-## JS 算法
+## JS JS数据结构和算法
 
-* [算法理解 + 刷题题解](https://github.com/xszi/fe-interview/tree/master/algorithm)
+* [数据结构和算法小知识 + 刷题题解](https://github.com/xszi/fe-interview/tree/master/algorithm)
 
 ## Vue
 
