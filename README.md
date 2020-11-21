@@ -47,11 +47,17 @@
 
 ## 读书笔记
 
+#### 技术类
+
 * [深入浅出Node.js](https://github.com/xszi/node-note)
 * [深入理解ES6](https://github.com/xszi/ES6)
 * [你不知道的JS](https://github.com/xszi/you-dont-kown-js)
 * [JavaScript设计模式和开发实战](https://github.com/xszi/js-design-mode)
 * [JavaScript高级程序设计](https://github.com/xszi/js-advanced)
+
+### 非技术类
+
+* [《思考，快与慢》](https://github.com/xszi/blog/issues/4)
 
 ## 工作总结
 
