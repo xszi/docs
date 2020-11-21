@@ -55,7 +55,7 @@
 * [JavaScript设计模式和开发实战](https://github.com/xszi/js-design-mode)
 * [JavaScript高级程序设计](https://github.com/xszi/js-advanced)
 
-### 非技术类
+#### 非技术类
 
 * [《思考，快与慢》](https://github.com/xszi/blog/issues/4)
 
