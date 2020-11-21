@@ -27,6 +27,7 @@
 ## 浏览器及网络
 
 * [V8引擎简析](https://juejin.im/post/5e0d40326fb9a0483e475543)
+* [请求头referer的理解](https://github.com/xszi/blog/issues/3)
 
 ## 工程化
 
