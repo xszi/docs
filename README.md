@@ -28,9 +28,10 @@
 
 * [V8引擎简析](https://juejin.im/post/5e0d40326fb9a0483e475543)
 * [请求头referer的理解](https://github.com/xszi/blog/issues/3)
+* [http协议](https://github.com/xszi/node/issues/13)
 
 ## 工程化
-
+* [Nginx —— 正向代理、反向代理和负载均衡](https://github.com/xszi/node/issues/12)
 * [webpack学习笔记(解析+demo)](https://github.com/xszi/webpack-demo)
 
 ## 性能优化
