@@ -66,4 +66,5 @@
 * [商城H5项目总结()](https://github.com/xszi/blog/)
 * [商城后台管理项目总结()](https://github.com/xszi/blog/)
 * [商城小程序项目总结()](https://github.com/xszi/blog/)
+* [mini备忘](https://github.com/xszi/blog/issues/7)
 
