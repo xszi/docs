@@ -59,6 +59,7 @@
 #### 非技术类
 
 * [《思考，快与慢》](https://github.com/xszi/blog/issues/4)
+* [《货币、银行与金融市场》](https://github.com/xszi/blog/issues/8)
 
 ## 工作总结
 
