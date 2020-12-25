@@ -66,6 +66,7 @@
 
 ## 工作总结
 
+* [wizard协作平台](https://github.com/xszi/blog/issues/11)
 * [商城店员端项目总结(前后端分离)](https://github.com/xszi/blog/blob/master/work/clerk.md)
 * [商城H5项目总结()](https://github.com/xszi/blog/)
 * [商城后台管理项目总结()](https://github.com/xszi/blog/)
