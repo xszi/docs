@@ -50,7 +50,9 @@
 
 * [图片Base64编码的误区](https://github.com/xszi/blog/issues/2)
 
-#### :seedling:资源推荐
+#### :seedling: 工具/资源
+
+:round_pushpin: 工具
 
 * [Githua Markdown稳定添加个性表情](https://www.webfx.com/tools/emoji-cheat-sheet/)
 * [浏览器兼容性检测Can I Use](https://caniuse.com/)
@@ -58,9 +60,18 @@
 * [在线代码对比/归并 - 码工具](https://www.matools.com/compare)
 * [扩展迷 ———— 谷歌浏览器插件包下载](https://www.extfans.com/)
 
+:round_pushpin: 资源 —— FE英文期刊 / 博客
+
+* [css-weekly](https://css-weekly.com/archives/)
+* [javascript-weekly](https://javascriptweekly.com/issues/520)
+* [DEV Community](https://dev.to/aemiej/nginx-concepts-i-wish-i-knew-years-ago-23o0)
+* [Google Developers Web](https://developers.google.com/web/)
+* [Mobile Dev Weekly](https://mobiledevweekly.com/issues)
+* [CodeAnalogies Blog](https://blog.codeanalogies.com/)
+
 #### :seedling: 读书笔记
 
-##### —— 技术类 ——
+:round_pushpin: 技术类
 
 * [深入浅出Node.js](https://github.com/xszi/node-note)
 * [深入理解ES6](https://github.com/xszi/ES6)
@@ -68,7 +79,7 @@
 * [JavaScript设计模式和开发实战](https://github.com/xszi/js-design-mode)
 * [JavaScript高级程序设计](https://github.com/xszi/js-advanced)
 
-##### —— 非技术类 ——
+:round_pushpin: 非技术类
 
 * [《思考，快与慢》](https://github.com/xszi/blog/issues/4)
 * [《货币、银行与金融市场》](https://github.com/xszi/blog/issues/8)
