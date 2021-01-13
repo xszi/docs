@@ -14,7 +14,7 @@
 
 #### :seedling: 数据结构和算法
 
-* [JS数据结构和算法知识小结 / 刷题题解（有单独仓库哦）](https://github.com/xszi/fe-interview/tree/master/algorithm)
+* [JS数据结构和算法知识小结 / 刷题题解（有单独仓库哦）](https://github.com/xszi/fe-interview/tree/master)
 
 #### :seedling: Vue
 
