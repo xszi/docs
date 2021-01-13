@@ -1,11 +1,11 @@
-## :memo: 开发备忘：
+### :memo: 开发备忘：
 
 * [FE备忘（2020）](https://github.com/xszi/blog/issues/7)
 * [FE备忘（2021）](https://github.com/xszi/blog/issues/7)
 * [HTML 备忘](https://github.com/xszi/blog/issues/16)
 * [CSS 备忘](https://github.com/xszi/blog/issues/6)
 
-## :memo: 技术博文：
+### :memo: 技术博文：
 
 #### :seedling: JS 基础知识
 
@@ -30,6 +30,10 @@
 #### :seedling: Node.js
 * [对Stream和Buffer的理解](https://github.com/xszi/blog/issues/5)
 * [部署上线一个node服务器](https://juejin.im/post/6844904002732343304)
+* [Node.js爬虫](https://github.com/xszi/node/issues/19)
+* pm2
+* socket.io / websocket
+* ES-module 和 common.js的使用区别
 
 #### :seedling: 浏览器及网络
 
