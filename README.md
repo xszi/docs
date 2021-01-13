@@ -7,7 +7,8 @@
 
 ### html & css
 
-* [CSS 开发备忘](https://github.com/xszi/blog/issues/6)
+* [HTML 备忘](https://github.com/xszi/blog/issues/16)
+* [CSS 备忘](https://github.com/xszi/blog/issues/6)
 
 ### JS 基础知识
 
@@ -15,7 +16,7 @@
 
 ### JS 数据结构和算法
 
-* [数据结构和算法小知识 + 刷题题解](https://github.com/xszi/fe-interview/tree/master/algorithm)
+* [数据结构和算法知识小结 / 刷题题解（有单独仓库哦）](https://github.com/xszi/fe-interview/tree/master/algorithm)
 
 ### Vue
 
