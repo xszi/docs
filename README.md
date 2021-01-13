@@ -1,5 +1,3 @@
-记录学习、记录成长。
-
 ## :memo: 开发备忘：
 
 * [FE备忘（2020）](https://github.com/xszi/blog/issues/7)
