@@ -1,13 +1,13 @@
 记录学习、记录成长。
 
-## 开发备忘：
+## :memo: 开发备忘：
 
 * [FE备忘（2020）](https://github.com/xszi/blog/issues/7)
 * [FE备忘（2021）](https://github.com/xszi/blog/issues/7)
 * [HTML 备忘](https://github.com/xszi/blog/issues/16)
 * [CSS 备忘](https://github.com/xszi/blog/issues/6)
 
-## 技术博文：
+## :memo: 技术博文：
 
 #### JS 基础知识
 
