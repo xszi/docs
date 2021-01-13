@@ -54,7 +54,7 @@
 
 :round_pushpin: 工具收藏
 
-* [Github Markdown稳定添加个性表情](https://www.webfx.com/tools/emoji-cheat-sheet/)
+* [Github Markdown文档添加个性表情](https://www.webfx.com/tools/emoji-cheat-sheet/)
 * [浏览器兼容性检测Can I Use](https://caniuse.com/)
 * [网站快速生成工具 ———— 个人网站/博客部署](https://jamstack.org/generators/)
 * [在线代码对比/归并 - 码工具](https://www.matools.com/compare)
