@@ -1,11 +1,11 @@
-### :memo: 开发备忘：
+### :memo: 开发备忘
 
 * [FE备忘（2020）](https://github.com/xszi/blog/issues/7)
 * [FE备忘（2021）](https://github.com/xszi/blog/issues/7)
 * [HTML 备忘](https://github.com/xszi/blog/issues/16)
 * [CSS 备忘](https://github.com/xszi/blog/issues/6)
 
-### :memo: 技术博文：
+### :memo: 技术博文/记录收藏
 
 :round_pushpin: JS 基础
 
@@ -50,10 +50,11 @@
  :round_pushpin: 性能优化
 
 * [图片Base64编码的误区](https://github.com/xszi/blog/issues/2)
+* 常见性能优化方法
 
 :round_pushpin: 工具收藏
 
-* [Githua Markdown稳定添加个性表情](https://www.webfx.com/tools/emoji-cheat-sheet/)
+* [Github Markdown稳定添加个性表情](https://www.webfx.com/tools/emoji-cheat-sheet/)
 * [浏览器兼容性检测Can I Use](https://caniuse.com/)
 * [网站快速生成工具 ———— 个人网站/博客部署](https://jamstack.org/generators/)
 * [在线代码对比/归并 - 码工具](https://www.matools.com/compare)
