@@ -7,13 +7,14 @@
 
 ### :memo: 技术博文：
 
-#### :seedling: JS 基础知识
+#### :seedling: JS 基础
 
 * [前端进阶（一）--- 调用堆栈](https://juejin.im/post/5bfb4af1e51d4574b133d1e3)
+* [ES6实践 ———— 彩票项目](https://github.com/xszi/ES6-lottery)
 
-#### :seedling: JS 数据结构和算法
+#### :seedling: 数据结构和算法
 
-* [数据结构和算法知识小结 / 刷题题解（有单独仓库哦）](https://github.com/xszi/fe-interview/tree/master/algorithm)
+* [JS数据结构和算法知识小结 / 刷题题解（有单独仓库哦）](https://github.com/xszi/fe-interview/tree/master/algorithm)
 
 #### :seedling: Vue
 
@@ -49,13 +50,13 @@
 
 * [图片Base64编码的误区](https://github.com/xszi/blog/issues/2)
 
-#### :seedling: 小小实战
-
-* [一个用ES6写的彩票项目(解析+demo)](https://github.com/xszi/ES6-lottery)
-
 #### :seedling:资源推荐
 
-* 待更新
+* [Githua Markdown稳定添加个性表情](https://www.webfx.com/tools/emoji-cheat-sheet/)
+* [浏览器兼容性检测Can I Use](https://caniuse.com/)
+* [网站快速生成工具 ———— 个人网站/博客部署](https://jamstack.org/generators/)
+* [在线代码对比/归并 - 码工具](https://www.matools.com/compare)
+* [扩展迷 ———— 谷歌浏览器插件包下载](https://www.extfans.com/)
 
 #### :seedling: 读书笔记
 
