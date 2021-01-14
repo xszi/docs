@@ -43,7 +43,9 @@
 * [请求头referer的理解](https://github.com/xszi/blog/issues/3)
 * [http协议](https://github.com/xszi/node/issues/13)
 
-:round_pushpin: 工程化
+:round_pushpin: 效率提升 / 工程化
+
+* [一种安全高效的开发——发布模式](https://github.com/xszi/blog/issues/17)
 * [Nginx —— 正向代理、反向代理和负载均衡](https://github.com/xszi/node/issues/12)
 * [webpack学习笔记(解析+demo)](https://github.com/xszi/webpack-demo)
 
