@@ -18,7 +18,7 @@
 
 :round_pushpin: Vue
 
-* 待更新
+* [Vuex中state/getter/mutation/action/module的用法与理解](https://github.com/xszi/blog/issues/25)
 
 :round_pushpin: React
 
@@ -39,9 +39,10 @@
 
 :round_pushpin: 浏览器及网络
 
-* [V8引擎简析](https://juejin.im/post/5e0d40326fb9a0483e475543)
+* [Cookie、Session、Token、JWT放一起厘清区别](https://github.com/xszi/blog/issues/24)
 * [请求头referer的理解](https://github.com/xszi/blog/issues/3)
 * [http协议](https://github.com/xszi/node/issues/13)
+* [V8引擎简析](https://juejin.im/post/5e0d40326fb9a0483e475543)
 
 :round_pushpin: 效率提升 / 工程化
 
