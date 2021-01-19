@@ -46,6 +46,7 @@
 :round_pushpin: 效率提升 / 工程化
 
 * [一种安全高效的开发/测试/发布模式【推荐】](https://github.com/xszi/blog/issues/17)
+* [如何发布一个专属自己的npm包?](https://github.com/xszi/blog/issues/18)
 * [Nginx —— 正向代理、反向代理和负载均衡](https://github.com/xszi/node/issues/12)
 * [webpack学习笔记(解析+demo)](https://github.com/xszi/webpack-demo)
 
@@ -84,8 +85,11 @@
 :round_pushpin: 工作总结
 
 * [wizard协作平台](https://github.com/xszi/blog/issues/11)
-* [商城店员端项目总结(前后端分离)](https://github.com/xszi/blog/blob/master/work/clerk.md)
-* [商城H5项目总结()](https://github.com/xszi/blog/)
-* [商城后台管理项目总结()](https://github.com/xszi/blog/)
-* [商城小程序项目总结()](https://github.com/xszi/blog/)
+* [项目管理平台](https://github.com/xszi/blog/issues/20)
+* [工时后台管理](https://github.com/xszi/blog/issues/21)
+* [工时H5](https://github.com/xszi/blog/issues/22)
+* [商城店员端(前后端分离)](https://github.com/xszi/blog/blob/master/work/clerk.md)
+* [商城H5](https://github.com/xszi/blog/)
+* [商城后台管理](https://github.com/xszi/blog/)
+* [商城小程序](https://github.com/xszi/blog/)
 
