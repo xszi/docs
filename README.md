@@ -85,6 +85,7 @@
 :round_pushpin: 工作总结
 
 * [wizard协作平台](https://github.com/xszi/blog/issues/11)
+* [wizard后台管理](https://github.com/xszi/blog/issues/23)
 * [项目管理平台](https://github.com/xszi/blog/issues/20)
 * [工时后台管理](https://github.com/xszi/blog/issues/21)
 * [工时H5](https://github.com/xszi/blog/issues/22)
