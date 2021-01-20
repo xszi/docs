@@ -30,6 +30,7 @@
 
 :round_pushpin: Node.js
 
+* [Serverless初探](https://github.com/xszi/blog/issues/26)
 * [对Stream和Buffer的理解](https://github.com/xszi/blog/issues/5)
 * [部署上线一个node服务器](https://juejin.im/post/6844904002732343304)
 * [Node.js爬虫](https://github.com/xszi/node/issues/19)
