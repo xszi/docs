@@ -2,9 +2,9 @@
 
 :round_pushpin: [2021训练专题]
 
-- [x] [算法（进行中）](https://github.com/xszi/fe-interview/tree/master)
-- [x] [webpack配置进阶/Rollup/ts.config.json（进行中）]()
-- [x] [埋点上报方案，数据统计分析（进行中）]()
+- [x] 1. [算法（进行中）](https://github.com/xszi/fe-interview/tree/master)
+- [x] 2. [webpack配置进阶/Rollup/ts.config.json（进行中）]()
+- [x] 3. [埋点上报方案，数据统计分析（进行中）]()
 - [x] [XSS和XSRF攻击举例及预防]()
 - [x] [虚拟列表+无限滚动方案]()
 - [x] [从AST理解bable原理]()
@@ -12,7 +12,7 @@
 - [x] [vite源码]()
 - [x] [手写常见设计模式]()
 - [x] [Vue3源码阅读总结，双向绑定/Vuex/Vue-router]()
-- [x] [Node.js爬虫]()C
+- [x] [Node.js爬虫]()
 - [x] [Node.js后台缓存控制]()
 - [x] [Jenkins自动化部署 + CICD]()
 - [x] [现代Hybrid开发与原理解析]()
