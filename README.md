@@ -1,10 +1,8 @@
 ### :memo: 开发备忘
 
-:round_pushpin: [2021备忘](https://github.com/xszi/blog/issues/7)
-
-:round_pushpin: [HTML 备忘](https://github.com/xszi/blog/issues/16)
-
-:round_pushpin: [CSS 备忘](https://github.com/xszi/blog/issues/6)
+* :round_pushpin: [2021备忘](https://github.com/xszi/blog/issues/7)
+* :round_pushpin: [HTML 备忘](https://github.com/xszi/blog/issues/16)
+* :round_pushpin: [CSS 备忘](https://github.com/xszi/blog/issues/6)
 
 ### :memo: [2021训练专题]
 
@@ -19,7 +17,7 @@
 * [手写常见设计模式]()
 * [Vue3源码阅读总结，双向绑定/Vuex/Vue-router]()
 
-:heavy_check_mark: [Node.js爬虫](https://github.com/xszi/node/issues/19)
+* :heavy_check_mark: [Node.js爬虫](https://github.com/xszi/node/issues/19)
 
 * [Node.js后台缓存控制]()
 * [Jenkins自动化部署 + CICD]()
