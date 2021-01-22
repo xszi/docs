@@ -1,43 +1,26 @@
 ### :memo: 开发备忘
 
 :round_pushpin: [2021备忘](https://github.com/xszi/blog/issues/7)
-
 :round_pushpin: [HTML 备忘](https://github.com/xszi/blog/issues/16)
-
 :round_pushpin: [CSS 备忘](https://github.com/xszi/blog/issues/6)
 
 ### :memo: [2021训练专题]
 
 * [算法（进行中）](https://github.com/xszi/fe-interview/tree/master)
-
 * [webpack配置进阶/Rollup/ts.config.json（进行中）]()
-
 * [埋点上报方案，数据统计分析（进行中）]()
-
 * [XSS和XSRF攻击举例及预防]()
-
 * [虚拟列表+无限滚动方案]()
-
 * [从AST理解bable原理]()
-
 * [Cli原理与简单实现]()
-
 * [vite源码]()
-
 * [手写常见设计模式]()
-
 * [Vue3源码阅读总结，双向绑定/Vuex/Vue-router]()
-
 :heavy_check_mark: [Node.js爬虫](https://github.com/xszi/node/issues/19)
-
 * [Node.js后台缓存控制]()
-
 * [Jenkins自动化部署 + CICD]()
-
 * [现代Hybrid开发与原理解析]()
-
 * [SSR服务端渲染]()
-
 * [微前端探索]()
 
 ### :memo: 技术博文/记录收藏
