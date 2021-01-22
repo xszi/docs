@@ -6,7 +6,7 @@
 
 :round_pushpin: [CSS 备忘](https://github.com/xszi/blog/issues/6)
 
-### [2021训练专题]
+### 2021训练专题
 
 [:watermelon: 算法（进行中）](https://github.com/xszi/fe-interview/tree/master)</br>
 [:watermelon: webpack配置进阶/Rollup/ts.config.json（进行中）](https://github.com/xszi/blog/issues/27)</br>
