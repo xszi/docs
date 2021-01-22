@@ -1,4 +1,4 @@
-### :memo: 开发备忘
+### 开发备忘
 
 :round_pushpin: [2021备忘](https://github.com/xszi/blog/issues/7)
 
@@ -6,7 +6,7 @@
 
 :round_pushpin: [CSS 备忘](https://github.com/xszi/blog/issues/6)
 
-### :memo: [2021训练专题]
+### [2021训练专题]
 
 [:watermelon: 算法（进行中）](https://github.com/xszi/fe-interview/tree/master)</br>
 [:watermelon: webpack配置进阶/Rollup/ts.config.json（进行中）](https://github.com/xszi/blog/issues/27)</br>
@@ -25,7 +25,7 @@
 :watermelon: SSR服务端渲染</br>
 :watermelon: 微前端探索</br>
 
-### :memo: 技术博文/记录收藏
+### 技术博文/记录收藏
 
 :round_pushpin: JS 基础
 
