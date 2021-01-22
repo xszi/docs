@@ -8,22 +8,22 @@
 
 ### :memo: [2021训练专题]
 
-[算法（进行中）](https://github.com/xszi/fe-interview/tree/master)</br>
-[webpack配置进阶/Rollup/ts.config.json（进行中）]()</br>
-[埋点上报方案，数据统计分析（进行中）]()</br>
-[XSS和XSRF攻击举例及预防]()</br>
-[虚拟列表+无限滚动方案]()</br>
-[从AST理解bable原理]()</br>
-[Cli原理与简单实现]()</br>
-[vite源码]()</br>
-[手写常见设计模式]()</br>
-[Vue3源码阅读总结，双向绑定/Vuex/Vue-router]()</br>
+[:watermelon: 算法（进行中）](https://github.com/xszi/fe-interview/tree/master)</br>
+[:watermelon: webpack配置进阶/Rollup/ts.config.json（进行中）]()</br>
+[:watermelon: 埋点上报方案，数据统计分析（进行中）]()</br>
+[:watermelon: XSS和XSRF攻击举例及预防]()</br>
+[:watermelon: 虚拟列表+无限滚动方案]()</br>
+[:watermelon: 从AST理解bable原理]()</br>
+[:watermelon: Cli原理与简单实现]()</br>
+[:watermelon: vite源码]()</br>
+[:watermelon: 手写常见设计模式]()</br>
+[:watermelon: Vue3源码阅读总结，双向绑定/Vuex/Vue-router]()</br>
 [:heavy_check_mark: Node.js爬虫](https://github.com/xszi/node/issues/19)</br>
-[Node.js后台缓存控制]()</br>
-[Jenkins自动化部署 + CICD]()</br>
-[现代Hybrid开发与原理解析]()</br>
-[SSR服务端渲染]()</br>
-[微前端探索]()</br>
+[:watermelon: Node.js后台缓存控制]()</br>
+[:watermelon: Jenkins自动化部署 + CICD]()</br>
+[:watermelon: 现代Hybrid开发与原理解析]()</br>
+[:watermelon: SSR服务端渲染]()</br>
+[:watermelon: 微前端探索]()</br>
 
 ### :memo: 技术博文/记录收藏
 
