@@ -2,22 +2,37 @@
 
 :round_pushpin: [2021训练专题]
 
-:white_medium_square: 1. [算法（进行中）](https://github.com/xszi/fe-interview/tree/master)
-:white_medium_square: 2. [webpack配置进阶/Rollup/ts.config.json（进行中）]()
-:white_medium_square: 3. [埋点上报方案，数据统计分析（进行中）]()
-:white_medium_square: [XSS和XSRF攻击举例及预防]()
-:white_medium_square: [虚拟列表+无限滚动方案]()
-:white_medium_square: [从AST理解bable原理]()
-:white_medium_square: [Cli原理与简单实现]()
-:white_medium_square: [vite源码]()
-:white_medium_square: [手写常见设计模式]()
-:white_medium_square: [Vue3源码阅读总结，双向绑定/Vuex/Vue-router]()
+:white_large_square: [算法（进行中）](https://github.com/xszi/fe-interview/tree/master)
+
+:white_large_square: [webpack配置进阶/Rollup/ts.config.json（进行中）]()
+
+:white_large_square: [埋点上报方案，数据统计分析（进行中）]()
+
+:white_large_square: [XSS和XSRF攻击举例及预防]()
+
+:white_large_square: [虚拟列表+无限滚动方案]()
+
+:white_large_square: [从AST理解bable原理]()
+
+:white_large_square: [Cli原理与简单实现]()
+
+:white_large_square: [vite源码]()
+
+:white_large_square: [手写常见设计模式]()
+
+:white_large_square: [Vue3源码阅读总结，双向绑定/Vuex/Vue-router]()
+
 :white_check_mark: [Node.js爬虫](https://github.com/xszi/node/issues/19)
-:white_medium_square: [Node.js后台缓存控制]()
-:white_medium_square: [Jenkins自动化部署 + CICD]()
-:white_medium_square: [现代Hybrid开发与原理解析]()
-:white_medium_square: [SSR服务端渲染]()
-:white_medium_square: [微前端探索]()
+
+:white_large_square: [Node.js后台缓存控制]()
+
+:white_large_square: [Jenkins自动化部署 + CICD]()
+
+:white_large_square: [现代Hybrid开发与原理解析]()
+
+:white_large_square: [SSR服务端渲染]()
+
+:white_large_square: [微前端探索]()
 
 :round_pushpin: [2021备忘](https://github.com/xszi/blog/issues/7)
 
