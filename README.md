@@ -10,7 +10,7 @@
 
 [:watermelon: 算法（进行中）](https://github.com/xszi/fe-interview/tree/master)</br>
 [:watermelon: webpack配置进阶/Rollup/ts.config.json（进行中）](https://github.com/xszi/blog/issues/27)</br>
-[:watermelon: 埋点上报方案，数据统计分析（进行中）](https://github.com/xszi/blog/issues/28)</br>
+[:watermelon: 前端监控 ———— 监控目标，埋点上报，数据统计分析（进行中）](https://github.com/xszi/blog/issues/28)</br>
 :watermelon: XSS和XSRF攻击举例及预防</br>
 :watermelon: 虚拟列表+无限滚动方案</br>
 :watermelon: 从AST理解bable原理</br>
@@ -74,6 +74,7 @@
 
  :round_pushpin: 性能优化
 
+* [如何解决使用vue打包时vendor或者app.js文件很大的问题？](https://github.com/xszi/blog/issues/29)
 * [图片Base64编码的误区](https://github.com/xszi/blog/issues/2)
 * 常见性能优化方法
 
