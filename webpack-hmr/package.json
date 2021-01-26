@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "webpack"
+  },
+  "name": "webpack-hmr",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "html-webpack-plugin": "^4.5.1",
+    "webpack": "^5.17.0",
+    "webpack-cli": "^4.4.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
