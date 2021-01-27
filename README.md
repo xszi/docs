@@ -37,8 +37,8 @@
 * [JS数据结构和算法知识小结 / 刷题题解（有单独仓库哦）](https://github.com/xszi/fe-interview/tree/master)
 
 :round_pushpin: Vue
-
-* [Vuex中state/getter/mutation/action/module的用法与理解](https://github.com/xszi/blog/issues/25)
+* `Vue3.0`性能提升主要是通过哪几方面体现的？
+* [`Vuex`中`state`/`getter`/`mutation`/`action`/`module`的用法与理解](https://github.com/xszi/blog/issues/25)
 
 :round_pushpin: React
 
@@ -67,6 +67,7 @@
 
 :round_pushpin: 效率提升 / 工程化
 
+* [ts.config.json配置详解](https://github.com/xszi/blog/issues/17)
 * [一种安全高效的开发/测试/发布模式【推荐】](https://github.com/xszi/blog/issues/17)
 * [如何发布一个专属自己的npm包?](https://github.com/xszi/blog/issues/18)
 * [Nginx —— 正向代理、反向代理和负载均衡](https://github.com/xszi/node/issues/12)
