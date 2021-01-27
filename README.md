@@ -9,7 +9,7 @@
 ### 2021训练专题
 
 [:watermelon: 算法（进行中）](https://github.com/xszi/fe-interview/tree/master)</br>
-[:watermelon: webpack配置进阶/Rollup/ts.config.json（进行中）](https://github.com/xszi/blog/issues/27)</br>
+[:watermelon: webpack配置进阶（进行中）](https://github.com/xszi/blog/issues/27)</br>
 [:watermelon: 前端监控 ———— 监控目标，埋点上报，数据统计分析（进行中）](https://github.com/xszi/blog/issues/28)</br>
 :watermelon: XSS和XSRF攻击举例及预防</br>
 :watermelon: 虚拟列表+无限滚动方案</br>
