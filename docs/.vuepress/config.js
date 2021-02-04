@@ -1,26 +1,22 @@
 module.exports = {
     base: '/blog/',
     dest: 'dist',
-    title: '乘风BLOG',
+    title: '行书子',
     description: '',
     themeConfig: {
         editLinks: false,
         docsDir: 'docs',
         nav: [{
-                text: '算法',
-                link: '/algorithms/'
+                text: '前端算法',
+                link: 'https://github.com/xszi/javascript-algorithms'
             },
             {
-                text: '博文',
-                items: [{
-                        text: '初识 TypeScript',
-                        link: '/chapter1/'
-                    }
-                ]
+                text: '机器学习',
+                link: 'https://github.com/xszi/javascript-algorithms'
             },
             {
-                text: '关于',
-                link: '/about/'
+                text: '感悟杂记',
+                link: 'https://github.com/xszi/javascript-algorithms'
             },
             {
                 text: 'Github',
@@ -28,12 +24,20 @@ module.exports = {
             },
         ],
         sidebar: [{
-                title: '初识 TypeScript',
+                title: '2021训练专题',
                 collapsable: false,
                 children: [
-                    ['chapter1/', 'Introduction'],
-                    'chapter1/install',
-                    'chapter1/start'
+                    'topic/algorithms',
+                    'topic/webpack',
+                    'topic/monitor'
+                ]
+            }, {
+                title: 'TypeScript',
+                collapsable: false,
+                children: [
+                    'typescript/intro',
+                    'typescript/install',
+                    'typescript/start'
                 ]
             }
         ]
