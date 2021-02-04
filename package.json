@@ -7,6 +7,8 @@
     "doc": "docs"
   },
   "dependencies": {
+    "@vssue/api-github-v4": "^1.4.7",
+    "@vssue/vuepress-plugin-vssue": "^1.4.7",
     "vuepress": "^1.8.0"
   },
   "devDependencies": {},

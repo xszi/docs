@@ -137,6 +137,6 @@ console.log(greeter(user))
 
 到这里，你已经对 TypeScript 有了一个大致的印象，那么下一章让我们来一起学习 TypeScript 的一些常用语法吧。
 
-
+<Vssue />
 
 
