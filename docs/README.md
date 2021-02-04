@@ -1,1 +1,6 @@
-每个文件都是独立的token
+#  
+---
+home: true
+actionText: 开始学习 →
+actionLink: /chapter1/
+---

@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "my blog",
   "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
   "dependencies": {
     "vuepress": "^1.8.0"
   },
