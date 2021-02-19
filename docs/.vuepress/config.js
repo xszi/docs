@@ -1,9 +1,18 @@
 module.exports = {
-    base: '/blog/',
-    dest: 'dist',
+    // base: '/blog/',
+    // 注入到当前页面的 HTML <head> 中的标签
+    head: [
+        ['link', {rel: 'icon', href: '/logo.png'}], // 增加一个自定义的 favicon(网页标签的图标)
+    ],
+    dest: './dist',
     title: '行书子',
-    description: '',
+    description: '行书子的前端技术文档',
+    markdown: {
+        lineNumbers: true // 代码块显示行号
+    },
     themeConfig: {
+        sidebarDepth: 2, // 将同时提取markdown中h2 和 h3 标题，显示在侧边栏上。
+        lastUpdated: 'Last Updated', // 文档更新时间：每个文件git最后提交的时间
         editLinks: false,
         docsDir: 'docs',
         nav: [{
@@ -16,7 +25,7 @@ module.exports = {
             },
             {
                 text: '感悟杂记',
-                link: 'https://github.com/xszi/javascript-algorithms'
+                link: 'https://xszi.github.io/blog'
             },
             {
                 text: 'Github',
