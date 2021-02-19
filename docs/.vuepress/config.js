@@ -1,5 +1,4 @@
 module.exports = {
-    // base: '/blog/',
     // 注入到当前页面的 HTML <head> 中的标签
     head: [
         ['link', {rel: 'icon', href: '/logo.png'}], // 增加一个自定义的 favicon(网页标签的图标)
@@ -21,11 +20,11 @@ module.exports = {
             },
             {
                 text: '机器学习',
-                link: 'https://xszi.github.io/blog/'
+                link: 'https://xszi.github.io/docs/'
             },
             {
                 text: '感悟杂记',
-                link: 'https://xszi.github.io/blog'
+                link: 'https://xszi.github.io/docs'
             },
             {
                 text: 'Github',

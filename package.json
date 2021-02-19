@@ -1,7 +1,7 @@
 {
-  "name": "blog",
+  "name": "docs",
   "version": "1.0.0",
-  "description": "This is a blog",
+  "description": "This is a fe docs",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xszi/blog.git"
+    "url": "git+https://github.com/xszi/docs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xszi/blog/issues"
+    "url": "https://github.com/xszi/docs/issues"
   },
-  "homepage": "https://github.com/xszi/blog"
+  "homepage": "https://github.com/xszi/docs"
 }
