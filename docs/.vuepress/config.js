@@ -4,7 +4,7 @@ module.exports = {
     head: [
         ['link', {rel: 'icon', href: '/logo.png'}], // 增加一个自定义的 favicon(网页标签的图标)
     ],
-    dest: './dist',
+    dest: 'dist',
     title: '行书子',
     description: '行书子的前端技术文档',
     markdown: {
