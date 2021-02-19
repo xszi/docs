@@ -33,9 +33,22 @@ module.exports = {
             },
         ],
         sidebar: [{
-            title: '2021训练专题',
+            title: '备忘',
             collapsable: false,
             children: [
+                'review/memo',
+                'review/plan',
+                'review/trend',
+                'review/question',
+                'review/html',
+                'review/css'
+            ]
+        }, {
+            title: '训练专题',
+            collapsable: false,
+            children: [
+                'topic/sourcemap',
+                'topic/hmr',
                 'topic/algorithms',
                 'topic/webpack',
                 'topic/monitor'
