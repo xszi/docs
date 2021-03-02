@@ -1,10 +1,12 @@
 ### 开发备忘
 
-:round_pushpin: [2021备忘](https://github.com/xszi/blog/issues/7)
+:round_pushpin: [会议分享记录](https://github.com/xszi/blog/issues/7)
 
-:round_pushpin: [HTML 备忘](https://github.com/xszi/blog/issues/16)
+:round_pushpin: [常用HTML 备忘](https://github.com/xszi/blog/issues/16)
 
-:round_pushpin: [CSS 备忘](https://github.com/xszi/blog/issues/6)
+:round_pushpin: [常用CSS 备忘](https://github.com/xszi/blog/issues/6)
+
+:round_pushpin: [常用JS 备忘](https://github.com/xszi/docs/issues/31)
 
 ### 2021训练专题
 
