@@ -16,7 +16,7 @@
 :watermelon: XSS和XSRF攻击举例及预防</br>
 :watermelon: 虚拟列表+无限滚动方案</br>
 :watermelon: 从AST理解bable原理</br>
-:watermelon: Cli原理与简单实现</br>
+[:watermelon: Cli原理与简单实现](https://github.com/xszi/blog/issues/32)</br>
 :watermelon: vite源码</br>
 :watermelon: 手写常见设计模式</br>
 :watermelon: Vue3源码阅读总结，双向绑定/Vuex/Vue-router</br>
