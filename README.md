@@ -2,11 +2,11 @@
 
 :round_pushpin: [会议分享记录](https://github.com/xszi/blog/issues/7)
 
-:round_pushpin: [HTML 备忘]
+:round_pushpin: HTML 备忘
 
 * [dataset 和Content](https://github.com/xszi/docs/issues/16)
 
-:round_pushpin: [CSS 备忘](https://github.com/xszi/blog/issues/6)
+:round_pushpin: CSS 备忘
 
 * [CSS小知识](https://github.com/xszi/docs/issues/6)
 * [CSS规范](https://github.com/xszi/docs/issues/33)
