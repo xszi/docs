@@ -1,19 +1,19 @@
 ### 开发备忘---
 
-:round_pushpin: [会议分享记录](https://github.com/xszi/blog/issues/7)
+:mountain_bicyclist: [会议分享记录](https://github.com/xszi/blog/issues/7)
 
-:round_pushpin: HTML 备忘
+:mountain_bicyclist: HTML 备忘
 
 * [dataset 和Content](https://github.com/xszi/docs/issues/16)
 
-:round_pushpin: CSS 备忘
+:mountain_bicyclist: CSS 备忘
 
 * [CSS小知识](https://github.com/xszi/docs/issues/6)
 * [CSS规范](https://github.com/xszi/docs/issues/33)
 * [CSS变量](https://github.com/xszi/docs/issues/34)
 * [一个用键盘控制行走方向的CSS动画 ———— Walkman](https://github.com/xszi/docs/issues/35)
 
-:round_pushpin: [JS 备忘](https://github.com/xszi/docs/issues/31)
+:mountain_bicyclist: [JS 备忘](https://github.com/xszi/docs/issues/31)
 
 ### 2021训练专题
 
