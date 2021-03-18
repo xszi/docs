@@ -77,6 +77,7 @@
 
 :round_pushpin: 效率提升 / 工程化
 
+* [npm 模块安装机制](https://github.com/xszi/docs/issues/37)
 * [ts.config.json配置详解](https://github.com/xszi/blog/issues/17)
 * [一种安全高效的开发/测试/发布模式【推荐】](https://github.com/xszi/blog/issues/17)
 * [如何发布一个专属自己的npm包?](https://github.com/xszi/blog/issues/18)
