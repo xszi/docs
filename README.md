@@ -1,4 +1,4 @@
-### 开发备忘---
+### 开发备忘
 
 :mountain_bicyclist: [会议分享记录](https://github.com/xszi/blog/issues/7)
 
@@ -11,6 +11,7 @@
 * [CSS小知识](https://github.com/xszi/docs/issues/6)
 * [CSS规范](https://github.com/xszi/docs/issues/33)
 * [CSS变量](https://github.com/xszi/docs/issues/34)
+* [CSS动画](https://github.com/xszi/docs/issues/36)
 * [一个用键盘控制行走方向的CSS动画 ———— Walkman](https://github.com/xszi/docs/issues/35)
 
 :mountain_bicyclist: [JS 备忘](https://github.com/xszi/docs/issues/31)

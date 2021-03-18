@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http="X-UA-Compatible" content="IE=edge">
+        <title>Content</title>
+        <style>
+            .container {
+                display: flex;
+            }
+
+            .container div {
+                border: 1px solid #000;
+                height: 100vh;
+                width: 50%
+            }
+
+            .panel label {
+                margin-right: 10px;
+            }
+
+            .display {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .btn {
+                font-size: var(--font-size, 12px);
+                border-style: var(--border-style, solid);
+                border-color: var(--border-color, red);
+                border-width: var(--border-width, 5px);
+                outline: 0;
+
+                transition: margin-left var(--duration, 1s) var(--timing-function, linear);
+            }
+
+            .btn:focus {
+                margin-left: 200px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="panel">
+                <ul>
+                    <ol>
+                        <label for="">字体大小</label>
+                        <input type="number" value="12" data-unit="px" onchange="changeVar('--font-size')(event)"/>px
+                    </ol>
+                    <ol>
+                        <label for="">边框样式</label>
+                        <input type="text" value="solid" onchange="changeVar('--border-style')(event)"/>px
+                    </ol>
+                    <ol>
+                        <label for="">边框颜色</label>
+                        <input type="text" value="red" onchange="changeVar('--border-color')(event)"/>px
+                    </ol>
+                    <ol>
+                        <label for="">边框粗细</label>
+                        <input type="number" value="1" data-unit="px" onchange="changeVar('--border-width')(event)"/>px
+                    </ol>
+                    <ol>
+                        <label for="">过渡时长</label>
+                        <input type="number" value="1" data-unit="s" onchange="changeVar('--duration')(event)"/>px
+                    </ol>
+                    <ol>
+                        <label for="">过渡时间函数</label>
+                        <input type="text" value="linear" data-unit="px" onchange="changeVar('--timing-function')(event)"/>px
+                    </ol>
+                </ul>
+            </div>
+            <div class="display">
+                <button class="btn">按钮</button>
+            </div>
+        </div>
+        <script>
+            const root = document.querySelector(':root')
+            const changeVar = (varName) => (ev) => {
+                const value = ev.target.value + (ev.target.dataset.unit || '');
+                root.style.setProperty(varName, value);
+                // HTMLElement.focus() 方法用于设置焦点，如果被指定的元素可以获取到焦点，焦点就会被设置到该元素上。
+                root.focus();
+            }
+        </script>
+    </body>
+</html>

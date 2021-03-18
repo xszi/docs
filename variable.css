@@ -1,0 +1,39 @@
+/* 声明 */
+:root {
+    --color: red;
+}
+
+body {
+    --font-size: 12px
+}
+
+/* 最基本的使用 */
+.my-div {
+    color: var(--color);
+    font-size: var(--font-size);
+}
+
+/* 带默认值 */
+.my-div {
+    color: var(--color, yellow);
+    font-size: var(--font-size, 12px);
+}
+
+/* 遍历套娃 */
+:root {
+    --primary-color: red;
+}
+
+.button-container {
+    --button-color: var(--primary-color);
+}
+
+.button {
+    color: var(--button-color)
+}
+
+/* 
+element.style.getPropertyValue('--var-name');
+element.style.setProperty('--var-name', value);
+element.style.removeProperty('--var-name') 
+*/
