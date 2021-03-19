@@ -93,6 +93,8 @@
 :round_pushpin: 工具收藏
 
 * [Github Markdown文档添加个性表情](https://www.webfx.com/tools/emoji-cheat-sheet/)
+* [多张组合生成雪碧图](https://www.toptal.com/developers/css/sprite-generator)
+* [GIF图片转换为单张帧图片软件下载](https://github.com/xszi/docs/blob/master/GIFFrame.exe)
 * [浏览器兼容性检测Can I Use](https://caniuse.com/)
 * [网站快速生成工具 ———— 个人网站/博客部署](https://jamstack.org/generators/)
 * [在线代码对比/归并 - 码工具](https://www.matools.com/compare)
