@@ -14,7 +14,7 @@
 * [CSS动画](https://github.com/xszi/docs/issues/36)
 * [一个用键盘控制行走方向的CSS动画 ———— Walkman](https://github.com/xszi/docs/issues/35)
 
-:mountain_bicyclist: [JS 备忘]
+:mountain_bicyclist: JS 备忘
 * [JS小知识](https://github.com/xszi/docs/issues/31)
 * [JS基础 ———— JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
 * [JS基础 ———— 242 Favorite JavaScript Utilities](https://1loc.dev/)
