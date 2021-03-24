@@ -15,7 +15,8 @@
 * [一个用键盘控制行走方向的CSS动画 ———— Walkman](https://github.com/xszi/docs/issues/35)
 
 :mountain_bicyclist: [JS 备忘](https://github.com/xszi/docs/issues/31)
-[JS基础 ———— JavaScript Questions](https://1loc.dev/)
+[JS基础 ———— JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
+[JS基础 ———— 242 Favorite JavaScript Utilities](https://1loc.dev/)
 [一个有趣和棘手的 JavaScript 示例列表](https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md)
 
 ### 2021训练专题
