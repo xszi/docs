@@ -1,6 +1,6 @@
 export default {
     methods: {
-        clipboard (text) {
+        clipboard(text) {
             if (window.clipboardData && window.clipboardData.setData) {
                 return window.clipboardData.setData('Text', text);
             } else if (document.queryCommandSupported && document.queryCommandSupported('copy')) {
