@@ -16,6 +16,7 @@
 
 :mountain_bicyclist: JS 备忘
 * [JS小知识](https://github.com/xszi/docs/issues/31)
+* [使用reduce处理树形结构数据](https://github.com/xszi/docs/issues/39)
 * [JS基础 ———— JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
 * [JS基础 ———— 242 Favorite JavaScript Utilities](https://1loc.dev/)
 * [一个有趣和棘手的 JavaScript 示例列表](https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md)
@@ -126,6 +127,7 @@
 
 :round_pushpin: 工作总结
 
+* [使用blink-mind开源库修改实现一个思维导图工具](https://github.com/xszi/docs/issues/38)
 * [wizard协作平台](https://github.com/xszi/blog/issues/11)
 * [wizard后台管理](https://github.com/xszi/blog/issues/23)
 * [项目管理平台](https://github.com/xszi/blog/issues/20)
