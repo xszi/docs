@@ -106,6 +106,8 @@
 * [网站快速生成工具 ———— 个人网站/博客部署](https://jamstack.org/generators/)
 * [在线代码对比/归并 - 码工具](https://www.matools.com/compare)
 * [扩展迷 ———— 谷歌浏览器插件包下载](https://www.extfans.com/)
+* [各类Web开发API查阅](https://devdocs.io/)
+* [H5P —— 在线展示可交互视频，游戏，课件，测验的插件](https://h5p.org/)
 
 :round_pushpin: FE英文期刊 / 博客
 
