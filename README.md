@@ -25,6 +25,7 @@
 ### 2021训练专题
 
 [:watermelon: 算法（进行中）](https://github.com/xszi/fe-interview/tree/master)</br>
+[:watermelon: 计算机基础知识笔记](https://github.com/xszi/docs/issues/42)
 [:watermelon: webpack配置进阶（进行中）](https://github.com/xszi/blog/issues/27)</br>
 [:watermelon: 前端监控 ———— 监控目标，埋点上报，数据统计分析（进行中）](https://github.com/xszi/blog/issues/28)</br>
 :watermelon: XSS和XSRF攻击举例及预防</br>
@@ -87,6 +88,7 @@
 * [npm 模块安装机制](https://github.com/xszi/docs/issues/37)
 * [ts.config.json配置详解](https://github.com/xszi/blog/issues/17)
 * [一种安全高效的开发/测试/发布模式【推荐】](https://github.com/xszi/blog/issues/17)
+* [工作中提升开发效率的几种方式【总结】](https://github.com/xszi/docs/issues/41)
 * [如何发布一个专属自己的npm包?](https://github.com/xszi/blog/issues/18)
 * [Nginx —— 正向代理、反向代理和负载均衡](https://github.com/xszi/node/issues/12)
 * [webpack学习笔记(解析+demo)](https://github.com/xszi/webpack-demo)
