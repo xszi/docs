@@ -16,6 +16,7 @@
 
 :mountain_bicyclist: JS 备忘
 * [JS小知识](https://github.com/xszi/docs/issues/31)
+* [简单常用的正则表达式](https://github.com/xszi/docs/issues/43)
 * [使用reduce处理树形结构数据](https://github.com/xszi/docs/issues/39)
 * [选择 Object 还是 Map，性能对比](https://github.com/xszi/docs/issues/35)
 * [JS基础 ———— JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
@@ -25,7 +26,7 @@
 ### 2021训练专题
 
 [:watermelon: 算法（进行中）](https://github.com/xszi/fe-interview/tree/master)</br>
-[:watermelon: 计算机基础知识笔记](https://github.com/xszi/docs/issues/42)
+[:watermelon: 计算机基础知识笔记](https://github.com/xszi/docs/issues/42)</br>
 [:watermelon: webpack配置进阶（进行中）](https://github.com/xszi/blog/issues/27)</br>
 [:watermelon: 前端监控 ———— 监控目标，埋点上报，数据统计分析（进行中）](https://github.com/xszi/blog/issues/28)</br>
 :watermelon: XSS和XSRF攻击举例及预防</br>
