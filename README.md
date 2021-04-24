@@ -28,9 +28,9 @@
 [:watermelon: 算法（进行中）](https://github.com/xszi/fe-interview/tree/master)</br>
 :watermelon: 计算机基础知识笔记</br>
 
-* [计算机组成原理](https://github.com/xszi/docs/issues/42)
-* [操作系统](https://github.com/xszi/docs/issues/42)
-* [计算机网络](https://github.com/xszi/docs/issues/42)
+* [计算机组成原理](https://github.com/xszi/docs/issues/42) **视频下载地址&课件PPT**
+* [操作系统](https://github.com/xszi/docs/issues/42) **视频下载地址&课件PPT**
+* [计算机网络](https://github.com/xszi/docs/issues/42) **视频下载地址&课件PPT**
 
 [:watermelon: webpack配置进阶（进行中）](https://github.com/xszi/blog/issues/27)</br>
 [:watermelon: 前端监控 ———— 监控目标，埋点上报，数据统计分析（进行中）](https://github.com/xszi/blog/issues/28)</br>
@@ -80,7 +80,7 @@
 * [Node.js爬虫](https://github.com/xszi/node/issues/19)
 * pm2
 * socket.io / websocket
-* ES-module 和 common.js的使用区别
+* [ES-module 和 common.js的使用区别](https://github.com/xszi/docs/issues/47)
 
 :round_pushpin: 浏览器及网络
 
