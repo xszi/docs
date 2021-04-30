@@ -1,43 +1,8 @@
-### 开发备忘
+## 专题训练计划 (5.1 —— 7.31)
 
-:mountain_bicyclist: [会议分享记录](https://github.com/xszi/blog/issues/7)
-
-:mountain_bicyclist: HTML 备忘
-
-* [dataset 和Content](https://github.com/xszi/docs/issues/16)
-
-:mountain_bicyclist: CSS 备忘
-
-* [CSS小知识](https://github.com/xszi/docs/issues/6)
-* [CSS规范](https://github.com/xszi/docs/issues/33)
-* [CSS变量](https://github.com/xszi/docs/issues/34)
-* [CSS动画](https://github.com/xszi/docs/issues/36)
-* [一个用键盘控制行走方向的CSS动画 ———— Walkman](https://github.com/xszi/html-css-js/blob/master/src/views/walkMan/index.html)
-
-:mountain_bicyclist: JS 备忘
-* [JS小知识](https://github.com/xszi/docs/issues/31)
-* [简单常用的正则表达式](https://github.com/xszi/docs/issues/43)
-* [使用reduce处理树形结构数据](https://github.com/xszi/docs/issues/39)
-* [选择 Object 还是 Map，性能对比](https://github.com/xszi/docs/issues/35)
-* [JS基础 ———— JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
-* [JS基础 ———— 242 Favorite JavaScript Utilities](https://1loc.dev/)
-* [一个有趣和棘手的 JavaScript 示例列表](https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md)
-
-### 计算机基础
-
-* [计算机组成原理](https://github.com/xszi/docs/issues/42)
-* [操作系统](https://github.com/xszi/docs/issues/42)
-* [计算机网络](https://github.com/xszi/docs/issues/42)
-* [数据结构和算法](https://github.com/xszi/fe-interview/tree/master)</br>
-
-[附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“**基础**”获取提取码
-
-
-### 2021.5.1 ~ 2021.7.31 专题训练计划
-
-| 专题  | 训练时间 | 状态 & 查看 |
+| 专题  | 训练时间 | 状态 / 查看 |
 | ---- |   ----   |   ---- |
-| webpack配置(loader + plugin)                            | 5.3 - 5.9 | 进行中 & [瞄](https://github.com/xszi/blog/issues/27) |
+| webpack配置(loader + plugin)                            | 5.3 - 5.9 | 进行中 / [瞄一眼](https://github.com/xszi/blog/issues/27) |
 | XSS和XSRF攻击举例及预防                                  | 5.10 - 5.16 | 未开始                                                |
 | SSR服务端渲染(React)                                     | 5.17 - 5.23 | 未开始                                               |
 | Node.js后台缓存控制                                      | 5.24 - 5.30 | 未开始                                               |
@@ -47,15 +12,52 @@
 | 现代Hybrid开发与原理解析(总结)                            | 6.21 - 7.27 | 未开始                                                |
 | Jenkins & CICD 持续集成 持续部署                         | 6.28 - 7.4 | 未开始                                                 |
 | Vue3源码阅读总结，双向绑定/Vuex/Vue-router                | 7.5 - 7.18 | 未开始                                                |
-| 前端监控 ———— 监控目标，埋点上报，数据统计分析             | 7.19 - 7.25 | 未完成 & [瞄](https://github.com/xszi/blog/issues/28)  |
-
+| 前端监控 ———— 监控目标，埋点上报，数据统计分析             | 7.19 - 7.25 | 未完成 & [瞄一眼](https://github.com/xszi/blog/issues/28)  |
 
 #### 拓展
 :watermelon: vite源码</br>
 :watermelon: 手写常见设计模式</br>
 :watermelon: 微前端探索</br>
 
-### 技术博文/记录收藏
+## 计算机基础
+
+
+| 科目   | 查看 |
+| ----   |   ---- |
+| 计算机组成原理 | [查看](https://github.com/xszi/docs/issues/42)          |
+| 操作系统       | [查看](https://github.com/xszi/docs/issues/42)          |
+| 计算机网络     | [查看](https://github.com/xszi/docs/issues/42)          |
+| 数据结构和算法 | [查看](https://github.com/xszi/fe-interview/tree/master) |
+|[附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“**基础**”获取提取码|
+
+
+## 开发备忘
+
+:mountain_bicyclist: HTML
+
+* [dataset 和Content](https://github.com/xszi/docs/issues/16)
+
+:mountain_bicyclist: CSS
+
+* [CSS小知识](https://github.com/xszi/docs/issues/6)
+* [CSS规范](https://github.com/xszi/docs/issues/33)
+* [CSS变量](https://github.com/xszi/docs/issues/34)
+* [CSS动画](https://github.com/xszi/docs/issues/36)
+* [一个用键盘控制行走方向的CSS动画 ———— Walkman](https://github.com/xszi/html-css-js/blob/master/src/views/walkMan/index.html)
+
+:mountain_bicyclist: JavaScript
+
+* [JS小知识](https://github.com/xszi/docs/issues/31)
+* [简单常用的正则表达式](https://github.com/xszi/docs/issues/43)
+* [使用reduce处理树形结构数据](https://github.com/xszi/docs/issues/39)
+* [选择 Object 还是 Map，性能对比](https://github.com/xszi/docs/issues/35)
+* [JS基础 ———— JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
+* [JS基础 ———— 242 Favorite JavaScript Utilities](https://1loc.dev/)
+* [一个有趣和棘手的 JavaScript 示例列表](https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md)
+
+:mountain_bicyclist: [技术分享记录](https://github.com/xszi/blog/issues/7)
+
+## 技术博文
 
 :round_pushpin: JS 基础
 
@@ -112,6 +114,8 @@
 * [如何解决使用vue打包时vendor或者app.js文件很大的问题？](https://github.com/xszi/blog/issues/29)
 * [图片Base64编码的误区](https://github.com/xszi/blog/issues/2)
 * 常见性能优化方法
+
+## 收藏记录
 
 :round_pushpin: 工具收藏
 
