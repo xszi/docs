@@ -30,7 +30,7 @@
 * [计算机网络](https://github.com/xszi/docs/issues/42)
 * [数据结构和算法](https://github.com/xszi/fe-interview/tree/master)</br>
 
-[附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“基础”获取
+[附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“**基础**”获取
 
 
 ### 2021训练专题
