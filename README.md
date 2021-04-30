@@ -25,14 +25,16 @@
 
 ### 计算机基础
 
-<font color=blue>附视频下载地址 & 课件PPT</font>
 * [计算机组成原理](https://github.com/xszi/docs/issues/42)
 * [操作系统](https://github.com/xszi/docs/issues/42)
 * [计算机网络](https://github.com/xszi/docs/issues/42)
+* [数据结构和算法](https://github.com/xszi/fe-interview/tree/master)</br>
+
+[附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“基础”获取
+
 
 ### 2021训练专题
 
-[:watermelon: 算法（进行中）](https://github.com/xszi/fe-interview/tree/master)</br>
 [:watermelon: webpack配置进阶（进行中）](https://github.com/xszi/blog/issues/27)</br>
 [:watermelon: 前端监控 ———— 监控目标，埋点上报，数据统计分析（进行中）](https://github.com/xszi/blog/issues/28)</br>
 :watermelon: XSS和XSRF攻击举例及预防</br>
