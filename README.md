@@ -13,11 +13,10 @@
 | Jenkins & CICD 持续集成 持续部署                         | 6.28 - 7.4 | /                                            |
 | Vue3源码阅读总结，双向绑定/Vuex/Vue-router                | 7.5 - 7.18 | /                                            |
 | 前端监控 ———— 监控目标，埋点上报，数据统计分析             | 7.19 - 7.25 |[查看](https://github.com/xszi/blog/issues/28) |
+| vite源码                                                | / | / |
+| 手写常见设计模式                                         | / | / |
+| 微前端探索                                              | / | / |
 
-#### 拓展
-vite源码</br>
-手写常见设计模式</br>
-微前端探索</br>
 
 ### 计算机基础
 
@@ -28,25 +27,20 @@ vite源码</br>
 | 操作系统       | [查看](https://github.com/xszi/docs/issues/42)          |
 | 计算机网络     | [查看](https://github.com/xszi/docs/issues/42)          |
 | 数据结构和算法 | [查看](https://github.com/xszi/fe-interview/tree/master) |
-|[附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“**基础**”获取提取码|
+
+[附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“**基础**”获取提取码
 
 
 ### 开发备忘
 
-HTML
+#### HTML / CSS / JavaScript
 
 * [dataset 和Content](https://github.com/xszi/docs/issues/16)
-
-CSS
-
 * [CSS小知识](https://github.com/xszi/docs/issues/6)
 * [CSS规范](https://github.com/xszi/docs/issues/33)
 * [CSS变量](https://github.com/xszi/docs/issues/34)
 * [CSS动画](https://github.com/xszi/docs/issues/36)
 * [一个用键盘控制行走方向的CSS动画 ———— Walkman](https://github.com/xszi/html-css-js/blob/master/src/views/walkMan/index.html)
-
-JavaScript
-
 * [JS小知识](https://github.com/xszi/docs/issues/31)
 * [简单常用的正则表达式](https://github.com/xszi/docs/issues/43)
 * [使用reduce处理树形结构数据](https://github.com/xszi/docs/issues/39)
@@ -54,34 +48,27 @@ JavaScript
 * [JS基础 ———— JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
 * [JS基础 ———— 242 Favorite JavaScript Utilities](https://1loc.dev/)
 * [一个有趣和棘手的 JavaScript 示例列表](https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md)
-
-[技术分享记录](https://github.com/xszi/blog/issues/7)
+* [前端进阶（一）--- 调用堆栈](https://juejin.im/post/5bfb4af1e51d4574b133d1e3)
+* [ES6实践 ———— 彩票项目](https://github.com/xszi/ES6-lottery)
+* [技术分享记录](https://github.com/xszi/blog/issues/7)
 
 ### 技术博文
 
-JS 基础
+#### Vue
 
-* [前端进阶（一）--- 调用堆栈](https://juejin.im/post/5bfb4af1e51d4574b133d1e3)
-* [ES6实践 ———— 彩票项目](https://github.com/xszi/ES6-lottery)
-
-数据结构和算法
-
-* [JS数据结构和算法知识小结 / 刷题题解（有单独仓库哦）](https://github.com/xszi/fe-interview/tree/master)
-
-Vue
 * `Vue3.0`性能提升主要是通过哪几方面体现的？
 * [`Vuex`中`state`/`getter`/`mutation`/`action`/`module`的用法与理解](https://github.com/xszi/blog/issues/25)
 * [详解vue的diff算法](https://www.cnblogs.com/wind-lanyan/p/9061684.html)(:star:)
 
-React
+#### React
 
 * 待更新
 
-mini-program
+#### mini-program
 
 * 待更新
 
-Node.js
+#### Node.js
 
 * [Serverless初探](https://github.com/xszi/blog/issues/26)
 * [对Stream和Buffer的理解](https://github.com/xszi/blog/issues/5)
@@ -92,14 +79,14 @@ Node.js
 * socket.io / websocket
 * [ES-module 和 common.js的使用区别](https://github.com/xszi/docs/issues/47)
 
-浏览器及网络
+#### 浏览器及网络
 
 * [Cookie、Session、Token、JWT放一起厘清区别](https://github.com/xszi/blog/issues/24)
 * [请求头referer的理解](https://github.com/xszi/blog/issues/3)
 * [http协议](https://github.com/xszi/node/issues/13)
 * [V8引擎简析](https://juejin.im/post/5e0d40326fb9a0483e475543)
 
-效率提升 / 工程化
+#### 效率提升 / 工程化
 
 * [npm 模块安装机制](https://github.com/xszi/docs/issues/37)
 * [ts.config.json配置详解](https://github.com/xszi/blog/issues/17)
@@ -109,7 +96,7 @@ Node.js
 * [Nginx —— 正向代理、反向代理和负载均衡](https://github.com/xszi/node/issues/12)
 * [webpack学习笔记(解析+demo)](https://github.com/xszi/webpack-demo)
 
- 性能优化
+#### 性能优化
 
 * [如何解决使用vue打包时vendor或者app.js文件很大的问题？](https://github.com/xszi/blog/issues/29)
 * [图片Base64编码的误区](https://github.com/xszi/blog/issues/2)
@@ -117,7 +104,7 @@ Node.js
 
 ### 收藏记录
 
-工具收藏
+#### 工具收藏
 
 * [Github Markdown文档添加个性表情](https://www.webfx.com/tools/emoji-cheat-sheet/)
 * [多张图片组合生成雪碧图](https://www.toptal.com/developers/css/sprite-generator)
@@ -131,7 +118,7 @@ Node.js
 * [H5P —— 在线展示可交互视频，游戏，课件，测验的插件](https://h5p.org/)
 * [codetour —— 一个VS Code扩展，可以直接在编辑器中记录和回放代码库的导览](https://github.com/microsoft/codetour)
 
-FE英文期刊 / 博客
+#### FE英文期刊 / 博客
 
 * [css-weekly](https://css-weekly.com/archives/)
 * [javascript-weekly](https://javascriptweekly.com/issues/520)
@@ -140,7 +127,7 @@ FE英文期刊 / 博客
 * [Mobile Dev Weekly](https://mobiledevweekly.com/issues)
 * [CodeAnalogies Blog](https://blog.codeanalogies.com/)
 
-读书笔记
+#### 读书笔记
 
 * [深入浅出Node.js](https://github.com/xszi/node-note)
 * [深入理解ES6](https://github.com/xszi/ES6)
@@ -150,7 +137,7 @@ FE英文期刊 / 博客
 * [《思考，快与慢》](https://github.com/xszi/blog/issues/4)
 * [《货币、银行与金融市场》](https://github.com/xszi/blog/issues/8)
 
-工作总结
+#### 工作总结
 
 * [使用blink-mind开源库修改实现一个思维导图工具](https://github.com/xszi/docs/issues/38)
 * [一种安全高效的开发/测试/发布模式【推荐】](https://github.com/xszi/blog/issues/17)
