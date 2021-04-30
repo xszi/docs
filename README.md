@@ -33,22 +33,26 @@
 [附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“**基础**”获取提取码
 
 
-### 2021训练专题
+### 2021.5.1 ~ 2021.7.31 专题训练计划
 
-[:watermelon: webpack配置进阶（进行中）](https://github.com/xszi/blog/issues/27)</br>
-[:watermelon: 前端监控 ———— 监控目标，埋点上报，数据统计分析（进行中）](https://github.com/xszi/blog/issues/28)</br>
-:watermelon: XSS和XSRF攻击举例及预防</br>
-:watermelon: 虚拟列表+无限滚动方案</br>
-:watermelon: 从AST理解bable原理</br>
-[:watermelon: Cli原理与简单实现](https://github.com/xszi/blog/issues/32)</br>
+| 专题  | 训练时间 | 状态 & 查看 |
+| ---- |   ----   |   ---- |
+| webpack配置(loader + plugin)                            | 5.3 - 5.9 | 进行中 & [瞄](https://github.com/xszi/blog/issues/27) |
+| XSS和XSRF攻击举例及预防                                  | 5.10 - 5.16 | 未开始                                                |
+| SSR服务端渲染(React)                                     | 5.17 - 5.23 | 未开始                                               |
+| Node.js后台缓存控制                                      | 5.24 - 5.30 | 未开始                                               |
+| Jenkins & CICD 持续集成 持续部署                         | 5.31 - 6.6 | 未开始                                                 |
+| 虚拟列表+无限滚动方案                                     | 6.7 - 6.13 | 未开始                                                |
+| 从AST理解bable原理                                       | 6.14 - 6.20 | 未开始                                                |
+| 现代Hybrid开发与原理解析(总结)                            | 6.21 - 7.27 | 未开始                                                |
+| Jenkins & CICD 持续集成 持续部署                         | 6.28 - 7.4 | 未开始                                                 |
+| Vue3源码阅读总结，双向绑定/Vuex/Vue-router                | 7.5 - 7.18 | 未开始                                                |
+| 前端监控 ———— 监控目标，埋点上报，数据统计分析             | 7.19 - 7.25 | 未完成 & [瞄](https://github.com/xszi/blog/issues/28)  |
+
+
+#### 拓展
 :watermelon: vite源码</br>
 :watermelon: 手写常见设计模式</br>
-:watermelon: Vue3源码阅读总结，双向绑定/Vuex/Vue-router</br>
-[:heavy_check_mark: Node.js爬虫](https://github.com/xszi/node/issues/19)</br>
-:watermelon: Node.js后台缓存控制</br>
-:watermelon: Jenkins自动化部署 + CICD</br>
-:watermelon: 现代Hybrid开发与原理解析</br>
-:watermelon: SSR服务端渲染</br>
 :watermelon: 微前端探索</br>
 
 ### 技术博文/记录收藏
@@ -81,6 +85,7 @@
 * [对Stream和Buffer的理解](https://github.com/xszi/blog/issues/5)
 * [部署上线一个node服务器](https://juejin.im/post/6844904002732343304)
 * [Node.js爬虫](https://github.com/xszi/node/issues/19)
+* [Cli原理与简单实现](https://github.com/xszi/blog/issues/32)</br>
 * pm2
 * socket.io / websocket
 * [ES-module 和 common.js的使用区别](https://github.com/xszi/docs/issues/47)
@@ -144,13 +149,12 @@
 :round_pushpin: 工作总结
 
 * [使用blink-mind开源库修改实现一个思维导图工具](https://github.com/xszi/docs/issues/38)
+* [一种安全高效的开发/测试/发布模式【推荐】](https://github.com/xszi/blog/issues/17)
+* [工作中提升开发效率的几种方式【总结】](https://github.com/xszi/docs/issues/41)
 * [wizard协作平台](https://github.com/xszi/blog/issues/11)
 * [wizard后台管理](https://github.com/xszi/blog/issues/23)
-* [项目管理平台](https://github.com/xszi/blog/issues/20)
-* [工时后台管理](https://github.com/xszi/blog/issues/21)
-* [工时H5](https://github.com/xszi/blog/issues/22)
+* [项目管理平台(上传 / 过滤组件)](https://github.com/xszi/blog/issues/20)
+* [工时后台管理 / H5](https://github.com/xszi/blog/issues/21)
 * [商城店员端(前后端分离)](https://github.com/xszi/blog/blob/master/work/clerk.md)
-* [商城H5](https://github.com/xszi/blog/)
-* [商城后台管理](https://github.com/xszi/blog/)
-* [商城小程序](https://github.com/xszi/blog/)
+* [商城H5 / 小程序 / 后台管理](https://github.com/xszi/blog/)
 
