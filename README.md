@@ -55,7 +55,7 @@ JavaScript
 * [JS基础 ———— 242 Favorite JavaScript Utilities](https://1loc.dev/)
 * [一个有趣和棘手的 JavaScript 示例列表](https://github.com/denysdovhan/wtfjs/blob/master/README-zh-cn.md)
 
-:mountain_bicyclist: [技术分享记录](https://github.com/xszi/blog/issues/7)
+[技术分享记录](https://github.com/xszi/blog/issues/7)
 
 ### 技术博文
 
