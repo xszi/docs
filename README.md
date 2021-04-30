@@ -1,25 +1,25 @@
-## 专题训练计划 (5.1 —— 7.31)
+### 专题训练计划（5.1~7.31）
 
-| 专题  | 训练时间 | 状态 / 查看 |
+| 专题  | 时间 | 查看 |
 | ---- |   ----   |   ---- |
-| webpack配置(loader + plugin)                            | 5.3 - 5.9 | 进行中 / [瞄一眼](https://github.com/xszi/blog/issues/27) |
-| XSS和XSRF攻击举例及预防                                  | 5.10 - 5.16 | 未开始                                                |
-| SSR服务端渲染(React)                                     | 5.17 - 5.23 | 未开始                                               |
-| Node.js后台缓存控制                                      | 5.24 - 5.30 | 未开始                                               |
-| Jenkins & CICD 持续集成 持续部署                         | 5.31 - 6.6 | 未开始                                                 |
-| 虚拟列表+无限滚动方案                                     | 6.7 - 6.13 | 未开始                                                |
-| 从AST理解bable原理                                       | 6.14 - 6.20 | 未开始                                                |
-| 现代Hybrid开发与原理解析(总结)                            | 6.21 - 7.27 | 未开始                                                |
-| Jenkins & CICD 持续集成 持续部署                         | 6.28 - 7.4 | 未开始                                                 |
-| Vue3源码阅读总结，双向绑定/Vuex/Vue-router                | 7.5 - 7.18 | 未开始                                                |
-| 前端监控 ———— 监控目标，埋点上报，数据统计分析             | 7.19 - 7.25 | 未完成 & [瞄一眼](https://github.com/xszi/blog/issues/28)  |
+| webpack配置(loader + plugin)                            | 5.3 - 5.9 |[查看](https://github.com/xszi/blog/issues/27) |
+| XSS和XSRF攻击举例及预防                                  | 5.10 - 5.16 | /                                           |
+| SSR服务端渲染(React)                                     | 5.17 - 5.23 | /                                          |
+| Node.js后台缓存控制                                      | 5.24 - 5.30 | /                                          |
+| Jenkins & CICD 持续集成 持续部署                         | 5.31 - 6.6 | /                                           |
+| 虚拟列表+无限滚动方案                                     | 6.7 - 6.13 | /                                           |
+| 从AST理解bable原理                                       | 6.14 - 6.20 | /                                          |
+| 现代Hybrid开发与原理解析(总结)                            | 6.21 - 7.27 | /                                          |
+| Jenkins & CICD 持续集成 持续部署                         | 6.28 - 7.4 | /                                            |
+| Vue3源码阅读总结，双向绑定/Vuex/Vue-router                | 7.5 - 7.18 | /                                            |
+| 前端监控 ———— 监控目标，埋点上报，数据统计分析             | 7.19 - 7.25 |[查看](https://github.com/xszi/blog/issues/28) |
 
 #### 拓展
 :watermelon: vite源码</br>
 :watermelon: 手写常见设计模式</br>
 :watermelon: 微前端探索</br>
 
-## 计算机基础
+### 计算机基础
 
 
 | 科目   | 查看 |
@@ -31,7 +31,7 @@
 |[附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“**基础**”获取提取码|
 
 
-## 开发备忘
+### 开发备忘
 
 :mountain_bicyclist: HTML
 
@@ -57,7 +57,7 @@
 
 :mountain_bicyclist: [技术分享记录](https://github.com/xszi/blog/issues/7)
 
-## 技术博文
+### 技术博文
 
 :round_pushpin: JS 基础
 
@@ -115,7 +115,7 @@
 * [图片Base64编码的误区](https://github.com/xszi/blog/issues/2)
 * 常见性能优化方法
 
-## 收藏记录
+### 收藏记录
 
 :round_pushpin: 工具收藏
 
