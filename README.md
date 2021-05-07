@@ -87,6 +87,7 @@
 * pm2
 * socket.io / websocket
 * [ES-module 和 common.js的使用区别](https://github.com/xszi/docs/issues/47)
+* [单点登录SSO](https://github.com/xszi/docs/issues/48)
 
 #### 浏览器及网络
 
