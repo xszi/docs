@@ -68,6 +68,10 @@
 * `Vue3.0`性能提升主要是通过哪几方面体现的？
 * [`Vuex`中`state`/`getter`/`mutation`/`action`/`module`的用法与理解](https://github.com/xszi/blog/issues/25)
 * [详解vue的diff算法](https://www.cnblogs.com/wind-lanyan/p/9061684.html)(:star:)
+* Vue3练习计划
+| 名称   | 源码查看 | 完成时间 |
+| ----   |   ----  | ----    |
+| Vue3仿知乎项目 | [源码](https://github.com/xszi/docs/issues/42)          | 7.1 —— 7.15 |
 
 #### React
 
