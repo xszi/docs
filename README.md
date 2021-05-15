@@ -72,7 +72,7 @@
 
 | 名称   | 源码查看 | 完成时间 |
 | ----   |   ----  | ----    |
-| Vue3仿知乎项目 | [源码](https://github.com/xszi/docs/issues/42)          | 7.1 —— 7.15 |
+| Vue3仿知乎 | [源码](https://github.com/xszi/docs/issues/42)          | 7.1 —— 7.15 |
 
 #### React
 
@@ -80,8 +80,8 @@
 
 | 名称   | 源码查看 | 完成时间 |
 | ----   |   ----  | ----    |
-| cnode项目 | [源码](https://github.com/xszi/docs/issues/42)          | 5.10 —— 5.20 |
-| 商城项目 | [源码](https://github.com/xszi/docs/issues/42)          | 5.20 —— 5.31 |
+| cnode | [源码](https://github.com/xszi/docs/issues/42)          | 5.10 —— 5.20 |
+| mall | [源码](https://github.com/xszi/docs/issues/42)          | 5.20 —— 5.31 |
 | mindmap | [源码](https://github.com/xszi/docs/issues/42)          | 6.1 —— 6.30  |
 
 #### mini-program
