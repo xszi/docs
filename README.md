@@ -80,7 +80,7 @@
 
 | 名称   | 源码查看 | 完成时间 |
 | ----   |   ----  | ----    |
-| cnode | [源码](https://github.com/xszi/docs/issues/42)          | 5.10 —— 5.20 |
+| cnode | [源码](https://github.com/xszi/react-cnode)          | 5.10 —— 5.20 |
 | mall | [源码](https://github.com/xszi/docs/issues/42)          | 5.20 —— 5.31 |
 | mindmap | [源码](https://github.com/xszi/docs/issues/42)          | 6.1 —— 6.30  |
 
