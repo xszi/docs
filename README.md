@@ -27,7 +27,7 @@
 | 微前端探索                                              | / | / |
 
 
-### 计算机基础 ———— 附讲解视频下载地址
+### 计算机基础
 
 
 | 科目   | 查看 |
@@ -36,6 +36,9 @@
 | 操作系统       | [查看](https://github.com/xszi/docs/issues/59)          |
 | 计算机网络     | [查看](https://github.com/xszi/docs/issues/60)          |
 | 数据结构和算法 | [查看](https://github.com/xszi/fe-interview/tree/master) |
+
+
+———— *附讲解视频下载地址*
 
 <!-- [附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“**基础**”获取提取码 -->
 
