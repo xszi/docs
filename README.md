@@ -38,7 +38,7 @@
 | 数据结构和算法 | [查看](https://github.com/xszi/fe-interview/tree/master) |
 
 
-———— *附讲解视频下载地址*
+———— *内附讲解视频、课件PDF下载*
 
 <!-- [附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“**基础**”获取提取码 -->
 
@@ -104,7 +104,7 @@
 * socket.io / websocket
 * [ES-module 和 common.js的使用区别](https://github.com/xszi/docs/issues/47)
 * [单点登录SSO](https://github.com/xszi/docs/issues/48)
-
+* [Node.js学习视频(code:1234)](https://pan.baidu.com/s/1vxWvPUGghTtWEzycg8PsfQ)
 #### 浏览器及网络
 
 * [Cookie、Session、Token、JWT放一起厘清区别](https://github.com/xszi/blog/issues/24)
