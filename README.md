@@ -161,7 +161,6 @@
 | 科目   | 查看 |
 | ----   |   ---- |
 | 计算机组成原理 | [查看](https://github.com/xszi/docs/issues/42)          |
-
 | 操作系统       | [查看](https://github.com/xszi/docs/issues/59)          |
 | 计算机网络     | [查看](https://github.com/xszi/docs/issues/60)          |
 | 数据结构和算法 | [查看](https://github.com/xszi/fe-interview/tree/master) |
