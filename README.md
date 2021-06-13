@@ -41,7 +41,7 @@
 <!-- [附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“**基础**”获取提取码 -->
 
 
-### 开发备忘
+### 点滴记录
 
 #### HTML / CSS / JavaScript
 
@@ -61,8 +61,6 @@
 * [前端进阶（一）--- 调用堆栈](https://juejin.im/post/5bfb4af1e51d4574b133d1e3)
 * [ES6实践 ———— 彩票项目](https://github.com/xszi/ES6-lottery)
 * [技术分享记录](https://github.com/xszi/blog/issues/7)
-
-### 技术博文
 
 #### Vue
 
