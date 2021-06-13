@@ -33,8 +33,8 @@
 | 科目   | 查看 |
 | ----   |   ---- |
 | 计算机组成原理 | [查看](https://github.com/xszi/docs/issues/42)          |
-| 操作系统       | [查看](https://github.com/xszi/docs/issues/42)          |
-| 计算机网络     | [查看](https://github.com/xszi/docs/issues/42)          |
+| 操作系统       | [查看](https://github.com/xszi/docs/issues/59)          |
+| 计算机网络     | [查看](https://github.com/xszi/docs/issues/60)          |
 | 数据结构和算法 | [查看](https://github.com/xszi/fe-interview/tree/master) |
 
 [附视频下载地址 & 课件](https://pan.baidu.com/s/1CYFawmoFsSQtLoR_CPBJrg)，关注公号【前端译站】回复“**基础**”获取提取码
