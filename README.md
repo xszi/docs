@@ -1,5 +1,3 @@
-![duncan-adler-Got-SV5YRPg-unsplash](https://user-images.githubusercontent.com/23453305/116666951-2b50ba00-a9ce-11eb-82d1-dc3e07ec50dd.jpg)
-
 ### Hi
 
 欢迎来到我的技术博客，我是行书子，我会在这里记录自己在前端领域一路走来的积累、心得，如果有些许帮助到您，鼓励一个star吧。
