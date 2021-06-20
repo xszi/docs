@@ -1,9 +1,9 @@
 ---
-home: true
+home: false
 # heroImage: /.vuepress/logo.png
 heroText: 行书子
-tagline: 我的文档记录
-actionText: 复习吧 →
+# tagline: 我的文档记录
+actionText: start →
 actionLink: /review/memo
 features:
 - title: 备忘
@@ -14,5 +14,5 @@ features:
   details: 徜徉书海，那些未曾经过自己大脑加工的知识，注定只是匆匆一瞥，转眼即逝，不留痕迹。
 - title: 关于投资
   details: 生活是多面的，任何一个人都不可能固守某一角落独善其身，拥抱多样的精彩，拥抱诗和远方。
-footer: MIT Licensed | Copyright © 2018-present xszi
+footer: MIT Licensed | Copyright © 2021-present 行书子
 ---
