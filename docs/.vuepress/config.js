@@ -36,7 +36,6 @@ module.exports = {
             title: '前端译站',
             collapsable: false,
             children: [
-                'translation/index',
                 'translation/20210326',
                 'translation/20210402',
                 'translation/20210410',
@@ -49,7 +48,9 @@ module.exports = {
                 'translation/20210530',
                 'translation/20210605',
                 'translation/20210612',
-                'translation/20210619'
+                'translation/20210619',
+                'translation/index'
+
             ]
         }, {
             title: '备忘',
