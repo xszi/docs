@@ -2,7 +2,10 @@ module.exports = {
     // 注入到当前页面的 HTML <head> 中的标签
     base: '/docs/',
     head: [
-        ['link', {rel: 'icon', href: '/logo.png'}], // 增加一个自定义的 favicon(网页标签的图标)
+        ['link', {
+            rel: 'icon',
+            href: '/logo.png'
+        }], // 增加一个自定义的 favicon(网页标签的图标)
     ],
     dest: 'dist',
     title: '行书子',
@@ -33,6 +36,25 @@ module.exports = {
             },
         ],
         sidebar: [{
+            title: '前端译站',
+            collapsable: true,
+            children: [
+                'translation/category',
+                'translation/nginx',
+                'translation/callstack',
+                'translation/docker',
+                'translation/nodeq',
+                'translation/float',
+                'translation/eventloop',
+                'translation/hoisting',
+                'translation/scope',
+                'translation/jsengine',
+                'translation/prototype',
+                'translation/geniterator',
+                'translation/promise',
+                'translation/unknow'
+            ]
+        }, {
             title: '备忘',
             collapsable: false,
             children: [
