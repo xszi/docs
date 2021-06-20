@@ -33,26 +33,6 @@ module.exports = {
             },
         ],
         sidebar: [{
-            title: '前端译站',
-            collapsable: false,
-            children: [
-                'translation/20210326',
-                'translation/20210402',
-                'translation/20210410',
-                'translation/20210417',
-                'translation/20210424',
-                'translation/20210430',
-                'translation/20210508',
-                'translation/20210515',
-                'translation/20210522',
-                'translation/20210530',
-                'translation/20210605',
-                'translation/20210612',
-                'translation/20210619',
-                'translation/index'
-
-            ]
-        }, {
             title: '备忘',
             collapsable: false,
             children: [
