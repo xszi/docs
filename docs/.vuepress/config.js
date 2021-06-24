@@ -19,10 +19,6 @@ module.exports = {
         editLinks: false,
         docsDir: 'docs',
         nav: [{
-                text: '行书子',
-                link: '/'
-            },
-            {
                 text: '前端算法',
                 link: 'https://github.com/xszi/javascript-algorithms'
             },
