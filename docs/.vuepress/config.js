@@ -52,7 +52,7 @@ module.exports = {
                 'translation/prototype',
                 'translation/geniterator',
                 'translation/promise',
-                'translation/unknow'
+                'translation/stream'
             ]
         }, {
             title: '备忘',
