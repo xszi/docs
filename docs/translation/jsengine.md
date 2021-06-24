@@ -1,4 +1,4 @@
-# 可视化的JavaScript —— （四）JS引擎【5.22】
+# 可视化的JavaScript —— （四）JS引擎
 
 【四】[JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 

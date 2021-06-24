@@ -1,4 +1,4 @@
-# 关于Node.js的20个面试题【4.17】
+# 关于Node.js的20个面试题
 
 **文章出处**：[Top 20 Interview Questions on Node.js](https://www.codingdefined.com/2017/04/top-20-interview-questions-on-nodejs.html)
 

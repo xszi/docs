@@ -1,4 +1,4 @@
-# 可视化的JavaScript —— （六）Generators 和 Iterators【6.5】
+# 可视化的JavaScript —— （六）Generators 和 Iterators
 
 【六】[JavaScript Visualized: Generators and Iterators](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)
 

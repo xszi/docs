@@ -1,4 +1,4 @@
-# 可视化的JavaScript —— （一）事件循环【4.30】
+# 可视化的JavaScript —— （一）事件循环
 
 文章来源：[JavaScript Visualized Series' Articles](https://dev.to/lydiahallie/series/3341)
 

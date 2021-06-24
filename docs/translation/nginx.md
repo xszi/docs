@@ -1,4 +1,4 @@
-# 我希望我早点认识Nginx【3.26】
+# 我希望我早点认识Nginx
 
 **文章出处：** [Nginx concepts I wish I knew years ago](https://dev.to/aemiej/nginx-concepts-i-wish-i-knew-years-ago-23o0)
 

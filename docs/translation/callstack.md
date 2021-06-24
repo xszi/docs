@@ -1,4 +1,4 @@
-# 通过两个示例来解释递归和和调用堆栈【4.2】
+# 通过两个示例来解释递归和和调用堆栈
 
 **文章出处**：[Recursion and the Call Stack Explained By Reading A Book](https://blog.codeanalogies.com/2020/01/14/recursion-and-the-call-stack-explained-by-reading-a-book/)
 

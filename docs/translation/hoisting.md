@@ -1,4 +1,4 @@
-# 可视化的JavaScript —— （二）提升【5.8】
+# 可视化的JavaScript —— （二）提升
 
 【二】[JavaScript Visualized: Hoisting](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
 

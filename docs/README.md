@@ -1,10 +1,10 @@
 ---
-home: false
+home: true
 # heroImage: /.vuepress/logo.png
 heroText: 行书子
 # tagline: 我的文档记录
 actionText: start →
-actionLink: /review/memo
+actionLink: /translation/category
 features:
 - title: 备忘
   details: 既然遇见了，甚至多次遇见了，那么就应该在脑海中留下些许印象，不能辜负了我们前世修来的缘分。

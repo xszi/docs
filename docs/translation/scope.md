@@ -1,4 +1,4 @@
-# 可视化的JavaScript —— （三）作用域（链）【5.15】
+# 可视化的JavaScript —— （三）作用域（链）
 
 【三】[JavaScript Visualized: Scope (Chain)](https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd)
 

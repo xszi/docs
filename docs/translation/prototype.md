@@ -1,4 +1,4 @@
-# 可视化的JavaScript —— （五）原型继承【5.30】
+# 可视化的JavaScript —— （五）原型继承
 
 【五】[JavaScript Visualized: Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)
 

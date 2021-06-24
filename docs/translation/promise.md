@@ -1,4 +1,4 @@
-# 可视化的JavaScript —— （七）Promises 和 Async/Await【6.12】
+# 可视化的JavaScript —— （七）Promises 和 Async/Await
 
 【七】[JavaScript Visualized: Promises & Async/Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
 
