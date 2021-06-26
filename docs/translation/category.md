@@ -14,4 +14,5 @@
 | 可视化的JavaScript —— （五）原型继承【5.30】                         |
 | 可视化的JavaScript —— （六）Generators 和 Iterators【6.5】           |
 | 可视化的JavaScript —— （七）Promises 和 Async/Await【6.12】          |
-| NodeJS 流的可视化指南 【】                                           |
+| NodeJS 流的可视化指南 【6.19】                                       |
+| 使用 Chrome DevTools 高效调试 JavaScript 【6.26】                    |

@@ -52,7 +52,8 @@ module.exports = {
                 'translation/prototype',
                 'translation/geniterator',
                 'translation/promise',
-                'translation/stream'
+                'translation/stream',
+                'translation/chrometool',
             ]
         }, {
             title: '备忘',
