@@ -22,7 +22,7 @@
 
 看看下图，两个不同尺寸的水龙头通过一个水箱连接。来自上游的水流量高于下游可以消耗的流量。因此，水箱必须暂时储存（“缓冲”）多余的水，而下游慢慢消耗。
 
-![1_5T_Ap0Qd2dS3637XEM-IzQ](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s1.png)
+![s1.png](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s1.png?raw=true)
 
 这是 NodeJS 中流的基本思想。`stream`模块提供了在处理流数据时实现此行为的功能。NodeJS 提供了两种基本类型的流。
 
@@ -44,7 +44,7 @@
 
 可读流可用于从底层源（例如文件描述符）读取数据。`Buffer`如果应用程序消耗的速度比操作系统从源读取的速度慢，则数据可以存储在可读流中。
 
-![1_QcVF_5C7WtJx_ohqJJ8dYw](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s2.png)
+![s2.png](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s2.png?raw=true)
 
 NodeJS 中最常见的可读流是`process.stdin`,`fs.createReadStream`和`IncomingMessage`等一些 HTTP 服务器中的对象。
 
