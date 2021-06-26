@@ -54,7 +54,7 @@ NodeJS 中最常见的可读流是`process.stdin`,`fs.createReadStream`和`Incom
 
 可写流用于将数据从应用程序写入特定目的地。在目的地比写入应用程序慢的情况下，为了防止数据丢失或目的地过载，数据可能存储在内部`Buffer`.
 
-![1_zGPIBCmXFqzSowUmlpfs-Q](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s3.png)
+![s3.png](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s3.png?raw=true)
 
 您可能每天使用的最常见的可写流`process.stdout`是在`console.log`. 除此之外，NodeJS 中另外两个非常常见的可写流是`process.stderr`和`fs.createWriteStream`
 
@@ -64,7 +64,7 @@ NodeJS 中最常见的可读流是`process.stdin`,`fs.createReadStream`和`Incom
 
 正如我之前提到的，双工流是可读流和可写流的混合体。连接到双工流的应用程序可以读取和写入双工流。双工流的最常见示例是`net.Socket`. 在双工流中，读和写部分是独立的，有自己的缓冲区。
 
-![1_V51BbjIa70RblrM7aEKxgg](C:\Users\jiuhua-pc\Desktop\1_V51BbjIa70RblrM7aEKxgg.png)
+![s4.png](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s4.png?raw=true)
 
 
 
@@ -72,7 +72,7 @@ NodeJS 中最常见的可读流是`process.stdin`,`fs.createReadStream`和`Incom
 
 转换流甚至是一种特殊的混合体，其中可读部分以某种方式连接到可写部分。一个常见的例子是使用`Cipher`类创建的加密流。在这种情况下，应用程序将纯数据写入流并从同一流中读取加密数据。
 
-![1_XBLmT-C8NhRJ9Z1eCIvtng](C:\Users\jiuhua-pc\Desktop\1_XBLmT-C8NhRJ9Z1eCIvtng.png)
+![s5.png](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s5.png?raw=true)
 
 可能最简单的转换流是`PassThrough`，其中输入数据只是作为输出传递而不进行任何转换。虽然这听起来很琐碎，但我已经多次使用它来实现带有流的自定义行为。
 
@@ -82,7 +82,7 @@ NodeJS 中最常见的可读流是`process.stdin`,`fs.createReadStream`和`Incom
 
 在许多情况下，流连接在一起时甚至更有用。听起来很明显，这被称为“管道”。您可以使用 Readable 流的`pipe()`方法将 Readable 流连接到另一个 Writable/Duplex 或 Transform 流。
 
-![1_rKroHjnDgnO45qm79CgDRg](C:\Users\jiuhua-pc\Desktop\1_rKroHjnDgnO45qm79CgDRg.png)
+![s6.png](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s6.png?raw=true)
 
 这方面的一个简单的例子是将通过管道的一个文件从一个地方复制到另一个地方`fs.createReadStream()`到一个`fs.createWriteStream()`。
 
@@ -107,7 +107,7 @@ original.pipe(copy2)
 
 上面的程序可以可视化如下：
 
-![1_nfu8H19tk5Lb3BXB4cVslg](C:\Users\jiuhua-pc\Desktop\1_nfu8H19tk5Lb3BXB4cVslg.png)
+![s7.png](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s7.png?raw=true)
 
 
 
@@ -117,13 +117,13 @@ original.pipe(copy2)
 
 如果我们可以“检测到”它会发生并让上游知道停止流动怎么办？我们可以将水箱标记在最高水位以下，并在水位上升到标记以上时要求上游停止。
 
-![1_K_lj7KgSy4UUpHzinvnFsA](C:\Users\jiuhua-pc\Desktop\1_K_lj7KgSy4UUpHzinvnFsA.png)
+![s8.png](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s8.png?raw=true)
 
 这与流的工作方式非常相似。虽然 Readable 和 Writable 流可以在内部缓冲数据，但它们可以缓冲的数据量受系统总可用内存的限制。因此，流有一个阈值`highWaterMark`，可用于检测数据传入流的速率是否远高于数据从流中清除的速率。
 
 例如，当可读流通过管道传输到可写流时，如果可写流的缓冲区填充超过`highWatermark`.
 
-![1_8w6vKRS0tOM1lbrIVlOjpA](C:\Users\jiuhua-pc\Desktop\1_8w6vKRS0tOM1lbrIVlOjpA.png)
+![s9.png](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s9.png?raw=true)
 
 虽然`highWaterMark`不是硬限制而只是一个阈值，但在构建自定义流时遵守该阈值很重要，以避免数据丢失或不受欢迎的内存使用。您可以[在官方文档中](https://nodejs.org/api/stream.html#stream_buffering)阅读有关此内容的更多信息。
 
@@ -135,7 +135,7 @@ original.pipe(copy2)
 
 以下是我前段时间构建的一个简单图像服务的设计。在此服务中，从 S3 存储桶中检索图像，并将其作为调整大小的图像提供给最终用户。
 
-![1_Mgsr9DBac9n5xRL1qnqBRg](C:\Users\jiuhua-pc\Desktop\1_Mgsr9DBac9n5xRL1qnqBRg.png)
+![s10.png](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s10.png?raw=true)
 
 如果我们在没有流的情况下构建它，我们将从 S3 存储桶中获取整个文件并将其保存在内存中，立即调整整个图像的大小，然后将调整后的图像发送给最终用户。
 
@@ -143,7 +143,7 @@ original.pipe(copy2)
 
 由于来自 S3 存储桶的数据流是可读流，因此我们可以直接将其通过管道传输到调整大小的转换流。由于转换流也是可读的，我们可以直接将其通过管道传输到响应流，以便调整来自 S3 存储桶的数据块的大小并将其发送给用户，而无需等待来自 S3 存储桶的整个文件。
 
-![1_9_a9Fpk8MSlkZEi7V0q87Q](C:\Users\jiuhua-pc\Desktop\1_9_a9Fpk8MSlkZEi7V0q87Q.png)
+![s11.png](https://github.com/xszi/docs/blob/master/docs/translation/images/stream/s11.png?raw=true)
 
 如果您感到好奇，请随时尝试自行构建此 API，如果您有任何疑问，请告诉我。提示：您可以查看`sharp`NPM 模块，该模块可用于构建图像处理能力。
 
