@@ -126,10 +126,10 @@
 * [使用blink-mind开源库修改实现一个思维导图工具](https://github.com/xszi/docs/issues/38)
 * [一种安全高效的开发/测试/发布模式【推荐】](https://github.com/xszi/blog/issues/17)
 * [工作中提升开发效率的几种方式【总结】](https://github.com/xszi/docs/issues/41)
-* [wizard协作平台](https://github.com/xszi/blog/issues/11)
-* [wizard后台管理](https://github.com/xszi/blog/issues/23)
+* [协作](https://github.com/xszi/blog/issues/11)
+* [后台管理](https://github.com/xszi/blog/issues/23)
 * [项目管理平台(上传 / 过滤组件)](https://github.com/xszi/blog/issues/20)
-* [工时后台管理 / H5](https://github.com/xszi/blog/issues/21)
+* [工时 / H5](https://github.com/xszi/blog/issues/21)
 * [商城店员端(前后端分离)](https://github.com/xszi/blog/blob/master/work/clerk.md)
 * [商城H5 / 小程序 / 后台管理](https://github.com/xszi/blog/)
 
